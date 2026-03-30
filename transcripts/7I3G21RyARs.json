@@ -1,0 +1,682 @@
+[
+  {
+    "text": "experiment, get uncomfortable, teach,",
+    "start": 0.32,
+    "duration": 4.4
+  },
+  {
+    "text": "repeat. That's the whole video.",
+    "start": 2.879,
+    "duration": 3.041
+  },
+  {
+    "text": ">> Thank you very much for coming.",
+    "start": 4.72,
+    "duration": 2.079
+  },
+  {
+    "text": "Appreciate it. Bye-bye.",
+    "start": 5.92,
+    "duration": 2.48
+  },
+  {
+    "text": ">> But if it were that simple, everyone",
+    "start": 6.799,
+    "duration": 3.201
+  },
+  {
+    "text": "would be doing it, right? Look,",
+    "start": 8.4,
+    "duration": 3.76
+  },
+  {
+    "text": "nowadays, most programmers learn by",
+    "start": 10.0,
+    "duration": 4.559
+  },
+  {
+    "text": "copying AI code and watching tutorials.",
+    "start": 12.16,
+    "duration": 4.16
+  },
+  {
+    "text": "And that's fine. It works [music] to a",
+    "start": 14.559,
+    "duration": 3.601
+  },
+  {
+    "text": "point at least. But if that's all you",
+    "start": 16.32,
+    "duration": 4.24
+  },
+  {
+    "text": "do, you stay shallow. Tutorials teach",
+    "start": 18.16,
+    "duration": 4.879
+  },
+  {
+    "text": "you what books teach you why. When you",
+    "start": 20.56,
+    "duration": 4.0
+  },
+  {
+    "text": "read something like the pragmatic",
+    "start": 23.039,
+    "duration": 3.601
+  },
+  {
+    "text": "programmer or fundamentals of software",
+    "start": 24.56,
+    "duration": 4.24
+  },
+  {
+    "text": "architecture, you stop copy pasting",
+    "start": 26.64,
+    "duration": 2.719
+  },
+  {
+    "text": "solutions [music]",
+    "start": 28.8,
+    "duration": 2.719
+  },
+  {
+    "text": "and start building mental models. And",
+    "start": 29.359,
+    "duration": 4.001
+  },
+  {
+    "text": "that's what separate programmers who can",
+    "start": 31.519,
+    "duration": 3.681
+  },
+  {
+    "text": "solve anything from programmers who need",
+    "start": 33.36,
+    "duration": 3.68
+  },
+  {
+    "text": "a tutorial for everything. Read the",
+    "start": 35.2,
+    "duration": 4.0
+  },
+  {
+    "text": "actual documentation too, not just the",
+    "start": 37.04,
+    "duration": 3.839
+  },
+  {
+    "text": "quick start guide. The people who know",
+    "start": 39.2,
+    "duration": 3.679
+  },
+  {
+    "text": "it tool deeply are the ones that end up",
+    "start": 40.879,
+    "duration": 4.081
+  },
+  {
+    "text": "enjoying programming more. But reading",
+    "start": 42.879,
+    "duration": 3.84
+  },
+  {
+    "text": "alone doesn't cut it. You have to get",
+    "start": 44.96,
+    "duration": 3.52
+  },
+  {
+    "text": "your hands dirty. You know that feeling",
+    "start": 46.719,
+    "duration": 3.68
+  },
+  {
+    "text": "when you copy code from Claude, it",
+    "start": 48.48,
+    "duration": 3.919
+  },
+  {
+    "text": "works, and you just move on? That's the",
+    "start": 50.399,
+    "duration": 4.241
+  },
+  {
+    "text": "trap. The programmers who grow fast are",
+    "start": 52.399,
+    "duration": 4.32
+  },
+  {
+    "text": "the ones who then ask, \"Okay, but why",
+    "start": 54.64,
+    "duration": 4.16
+  },
+  {
+    "text": "does this work? What happens if I remove",
+    "start": 56.719,
+    "duration": 4.0
+  },
+  {
+    "text": "this one line?\" They break things on",
+    "start": 58.8,
+    "duration": 3.919
+  },
+  {
+    "text": "purpose. They build dumb little side",
+    "start": 60.719,
+    "duration": 4.001
+  },
+  {
+    "text": "scripts just to test an idea. There's",
+    "start": 62.719,
+    "duration": 3.281
+  },
+  {
+    "text": "research [music] on this called",
+    "start": 64.72,
+    "duration": 3.6
+  },
+  {
+    "text": "desirable difficulties. The idea that",
+    "start": 66.0,
+    "duration": 4.56
+  },
+  {
+    "text": "making learning harder on purpose leads",
+    "start": 68.32,
+    "duration": 4.24
+  },
+  {
+    "text": "to stronger long-term retention. And",
+    "start": 70.56,
+    "duration": 3.84
+  },
+  {
+    "text": "naturally, experimenting means you're",
+    "start": 72.56,
+    "duration": 3.04
+  },
+  {
+    "text": "going to try things that feel",
+    "start": 74.4,
+    "duration": 3.039
+  },
+  {
+    "text": "uncomfortable. Which brings me to this.",
+    "start": 75.6,
+    "duration": 3.655
+  },
+  {
+    "text": "If you've been building the same type of",
+    "start": 77.439,
+    "duration": 3.761
+  },
+  {
+    "text": "[music] app for 2 years or only using",
+    "start": 79.255,
+    "duration": 3.785
+  },
+  {
+    "text": "the one language you learned first,",
+    "start": 81.2,
+    "duration": 3.76
+  },
+  {
+    "text": "that's a comfort zone and it's killing",
+    "start": 83.04,
+    "duration": 4.0
+  },
+  {
+    "text": "your growth. Vagotssky called the sweet",
+    "start": 84.96,
+    "duration": 4.24
+  },
+  {
+    "text": "spot the zone of proximal development,",
+    "start": 87.04,
+    "duration": 4.32
+  },
+  {
+    "text": "the edge of what you can currently do.",
+    "start": 89.2,
+    "duration": 4.0
+  },
+  {
+    "text": "Not so hard you're lost, but hard enough",
+    "start": 91.36,
+    "duration": 3.52
+  },
+  {
+    "text": "that you have to think. Take the ticket",
+    "start": 93.2,
+    "duration": 3.44
+  },
+  {
+    "text": "nobody wants. [music] Try a language",
+    "start": 94.88,
+    "duration": 3.52
+  },
+  {
+    "text": "you've never touched. That discomfort",
+    "start": 96.64,
+    "duration": 3.76
+  },
+  {
+    "text": "you feel is your brain building new",
+    "start": 98.4,
+    "duration": 3.92
+  },
+  {
+    "text": "pathways. Here's the thing, though. Most",
+    "start": 100.4,
+    "duration": 3.759
+  },
+  {
+    "text": "of the time, nobody hands you the hard",
+    "start": 102.32,
+    "duration": 3.759
+  },
+  {
+    "text": "problems. You have to reach for them.",
+    "start": 104.159,
+    "duration": 3.681
+  },
+  {
+    "text": "Especially early in your career, you",
+    "start": 106.079,
+    "duration": 3.841
+  },
+  {
+    "text": "have to go to your team lead and say, \"I",
+    "start": 107.84,
+    "duration": 4.559
+  },
+  {
+    "text": "want something bigger.\" Volunteer for",
+    "start": 109.92,
+    "duration": 4.72
+  },
+  {
+    "text": "the module nobody wants to touch. Own",
+    "start": 112.399,
+    "duration": 4.881
+  },
+  {
+    "text": "outcomes, not just tasks. Responsibility",
+    "start": 114.64,
+    "duration": 4.72
+  },
+  {
+    "text": "is a skill like any other. And the only",
+    "start": 117.28,
+    "duration": 3.92
+  },
+  {
+    "text": "way to get better at it is to actually",
+    "start": 119.36,
+    "duration": 3.759
+  },
+  {
+    "text": "carry some. Once you're doing harder",
+    "start": 121.2,
+    "duration": 3.919
+  },
+  {
+    "text": "work, you want real feedback on it.",
+    "start": 123.119,
+    "duration": 3.68
+  },
+  {
+    "text": "That's where open- source comes in. And",
+    "start": 125.119,
+    "duration": 3.521
+  },
+  {
+    "text": "I think it's the most underrated growth",
+    "start": 126.799,
+    "duration": 3.52
+  },
+  {
+    "text": "tool for programmers. A lot of people",
+    "start": 128.64,
+    "duration": 3.599
+  },
+  {
+    "text": "assume it's for senior engineers who",
+    "start": 130.319,
+    "duration": 4.081
+  },
+  {
+    "text": "code exclusively in Voodoo. It's not.",
+    "start": 132.239,
+    "duration": 4.161
+  },
+  {
+    "text": "Your first contribution can literally be",
+    "start": 134.4,
+    "duration": 4.32
+  },
+  {
+    "text": "a documentation fix, but now you're",
+    "start": 136.4,
+    "duration": 4.559
+  },
+  {
+    "text": "inside a real codebase. You see how",
+    "start": 138.72,
+    "duration": 4.32
+  },
+  {
+    "text": "production level code is structured and",
+    "start": 140.959,
+    "duration": 3.92
+  },
+  {
+    "text": "you get feedback from engineers who do",
+    "start": 143.04,
+    "duration": 4.08
+  },
+  {
+    "text": "this professionally. Go to GitHub, find",
+    "start": 144.879,
+    "duration": 4.161
+  },
+  {
+    "text": "a project you actually use. Look at the",
+    "start": 147.12,
+    "duration": 4.32
+  },
+  {
+    "text": "issues tab. Start there. The feedback",
+    "start": 149.04,
+    "duration": 4.32
+  },
+  {
+    "text": "you get from open source is powerful.",
+    "start": 151.44,
+    "duration": 3.84
+  },
+  {
+    "text": "The fastest way to level up is to be",
+    "start": 153.36,
+    "duration": 3.76
+  },
+  {
+    "text": "around people who have higher standards",
+    "start": 155.28,
+    "duration": 3.92
+  },
+  {
+    "text": "than you. Jim Ran said, \"You're the",
+    "start": 157.12,
+    "duration": 4.0
+  },
+  {
+    "text": "average of the five people you spend the",
+    "start": 159.2,
+    "duration": 3.759
+  },
+  {
+    "text": "most time with. If everyone around you",
+    "start": 161.12,
+    "duration": 4.24
+  },
+  {
+    "text": "is fine with messy code and half shipped",
+    "start": 162.959,
+    "duration": 4.56
+  },
+  {
+    "text": "features, that becomes your normal. Find",
+    "start": 165.36,
+    "duration": 4.239
+  },
+  {
+    "text": "communities, Discord servers, local",
+    "start": 167.519,
+    "duration": 4.0
+  },
+  {
+    "text": "meetups, people whose code you look at",
+    "start": 169.599,
+    "duration": 3.761
+  },
+  {
+    "text": "and think, \"I'm not there yet.\" You",
+    "start": 171.519,
+    "duration": 3.841
+  },
+  {
+    "text": "don't need a formal mentor. You just",
+    "start": 173.36,
+    "duration": 4.0
+  },
+  {
+    "text": "need people whose standards you respect.",
+    "start": 175.36,
+    "duration": 3.519
+  },
+  {
+    "text": "Now, once you've learned things from",
+    "start": 177.36,
+    "duration": 3.519
+  },
+  {
+    "text": "reading, experimenting, getting pushed",
+    "start": 178.879,
+    "duration": 5.121
+  },
+  {
+    "text": "by better people, you need to teach.",
+    "start": 180.879,
+    "duration": 4.241
+  },
+  {
+    "text": ">> What?",
+    "start": 184.0,
+    "duration": 2.879
+  },
+  {
+    "text": ">> This sounds counterintuitive when you're",
+    "start": 185.12,
+    "duration": 3.44
+  },
+  {
+    "text": "still learning, but it's one of the most",
+    "start": 186.879,
+    "duration": 3.44
+  },
+  {
+    "text": "effective things you can do. Richard",
+    "start": 188.56,
+    "duration": 3.44
+  },
+  {
+    "text": "Fineman believed that if you can't",
+    "start": 190.319,
+    "duration": 3.521
+  },
+  {
+    "text": "explain something simply, you don't",
+    "start": 192.0,
+    "duration": 3.599
+  },
+  {
+    "text": "actually understand it. Write a blog",
+    "start": 193.84,
+    "duration": 3.84
+  },
+  {
+    "text": "post, explain a concept to a friend,",
+    "start": 195.599,
+    "duration": 4.161
+  },
+  {
+    "text": "record a quick video for a classmate or",
+    "start": 197.68,
+    "duration": 4.24
+  },
+  {
+    "text": "co-orker. The moment you try to teach",
+    "start": 199.76,
+    "duration": 3.6
+  },
+  {
+    "text": "something, every gap in your",
+    "start": 201.92,
+    "duration": 3.2
+  },
+  {
+    "text": "understanding becomes obvious. And",
+    "start": 203.36,
+    "duration": 3.519
+  },
+  {
+    "text": "closing those gaps is where real",
+    "start": 205.12,
+    "duration": 4.32
+  },
+  {
+    "text": "learning happens. So basically, read,",
+    "start": 206.879,
+    "duration": 4.881
+  },
+  {
+    "text": "experiment, get uncomfortable, and ship",
+    "start": 209.44,
+    "duration": 4.159
+  },
+  {
+    "text": "more. And if you want to streamline this",
+    "start": 211.76,
+    "duration": 3.92
+  },
+  {
+    "text": "process, then Superbase, the sponsor of",
+    "start": 213.599,
+    "duration": 3.841
+  },
+  {
+    "text": "today's videos, got you covered.",
+    "start": 215.68,
+    "duration": 4.08
+  },
+  {
+    "text": "Superbase is a complete backend for both",
+    "start": 217.44,
+    "duration": 4.32
+  },
+  {
+    "text": "web and mobile apps based on free",
+    "start": 219.76,
+    "duration": 4.32
+  },
+  {
+    "text": "open-source software. It's got off",
+    "start": 221.76,
+    "duration": 5.28
+  },
+  {
+    "text": "storage, a Postgrass database, real time",
+    "start": 224.08,
+    "duration": 4.879
+  },
+  {
+    "text": "and edge functions out of the box for",
+    "start": 227.04,
+    "duration": 4.4
+  },
+  {
+    "text": "your back end and SDKs on the front end",
+    "start": 228.959,
+    "duration": 3.84
+  },
+  {
+    "text": "so you can easily connect your",
+    "start": 231.44,
+    "duration": 3.12
+  },
+  {
+    "text": "infrastructure to your overengineered",
+    "start": 232.799,
+    "duration": 3.841
+  },
+  {
+    "text": "front end. To start using Superbase, you",
+    "start": 234.56,
+    "duration": 4.319
+  },
+  {
+    "text": "can either self-host it using Docker or",
+    "start": 236.64,
+    "duration": 4.4
+  },
+  {
+    "text": "simply sign up for free and get a fully",
+    "start": 238.879,
+    "duration": 4.08
+  },
+  {
+    "text": "managed account. All of the features are",
+    "start": 241.04,
+    "duration": 4.16
+  },
+  {
+    "text": "neatly arranged in an intuitive and easy",
+    "start": 242.959,
+    "duration": 4.241
+  },
+  {
+    "text": "to use interface so you can easily set",
+    "start": 245.2,
+    "duration": 4.08
+  },
+  {
+    "text": "up your database authentication and",
+    "start": 247.2,
+    "duration": 4.16
+  },
+  {
+    "text": "storage in a matter of minutes. And if",
+    "start": 249.28,
+    "duration": 4.72
+  },
+  {
+    "text": "you're working with AI, Superbase has PG",
+    "start": 251.36,
+    "duration": 4.8
+  },
+  {
+    "text": "Vector built right into the database. So",
+    "start": 254.0,
+    "duration": 3.84
+  },
+  {
+    "text": "you get Vector embeddings without",
+    "start": 256.16,
+    "duration": 3.68
+  },
+  {
+    "text": "bolting on a separate service. It's",
+    "start": 257.84,
+    "duration": 4.239
+  },
+  {
+    "text": "genuinely the best way to build an AI",
+    "start": 259.84,
+    "duration": 4.72
+  },
+  {
+    "text": "powered app right now. Start for free",
+    "start": 262.079,
+    "duration": 4.001
+  },
+  {
+    "text": "with the link in the description. Thanks",
+    "start": 264.56,
+    "duration": 5.199
+  },
+  {
+    "text": "to Superbase for sponsoring this",
+    "start": 266.08,
+    "duration": 3.679
+  }
+]

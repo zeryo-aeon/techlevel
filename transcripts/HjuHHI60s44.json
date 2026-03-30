@@ -1,0 +1,1012 @@
+[
+  {
+    "text": "what is going on guys my name is Bucky",
+    "start": 0.76,
+    "duration": 4.48
+  },
+  {
+    "text": "and welcome to your very first tutorial",
+    "start": 3.159,
+    "duration": 5.081
+  },
+  {
+    "text": "in Linux now in this video series I'm",
+    "start": 5.24,
+    "duration": 4.479
+  },
+  {
+    "text": "going to be showing you guys how to do a",
+    "start": 8.24,
+    "duration": 3.8
+  },
+  {
+    "text": "whole bunch of cool stuff with Linux but",
+    "start": 9.719,
+    "duration": 4.521
+  },
+  {
+    "text": "before we begin I probably should answer",
+    "start": 12.04,
+    "duration": 5.96
+  },
+  {
+    "text": "this question what the heck is Linux",
+    "start": 14.24,
+    "duration": 7.24
+  },
+  {
+    "text": "well Linux is an open-source operating",
+    "start": 18.0,
+    "duration": 6.64
+  },
+  {
+    "text": "system all right what does that mean and",
+    "start": 21.48,
+    "duration": 5.119
+  },
+  {
+    "text": "why would I care about it well you",
+    "start": 24.64,
+    "duration": 3.92
+  },
+  {
+    "text": "already know what an operating system is",
+    "start": 26.599,
+    "duration": 4.68
+  },
+  {
+    "text": "Windows is an operating system um if",
+    "start": 28.56,
+    "duration": 4.92
+  },
+  {
+    "text": "you're on a Mac you probably have OS 10",
+    "start": 31.279,
+    "duration": 4.521
+  },
+  {
+    "text": "as your operating system an operating",
+    "start": 33.48,
+    "duration": 4.919
+  },
+  {
+    "text": "system is pretty much the core component",
+    "start": 35.8,
+    "duration": 4.599
+  },
+  {
+    "text": "that any you know personal computer",
+    "start": 38.399,
+    "duration": 5.601
+  },
+  {
+    "text": "needs in order to work so normal users",
+    "start": 40.399,
+    "duration": 5.601
+  },
+  {
+    "text": "really don't care about these because",
+    "start": 44.0,
+    "duration": 3.92
+  },
+  {
+    "text": "they usually work behind the scenes and",
+    "start": 46.0,
+    "duration": 4.36
+  },
+  {
+    "text": "do stuff like handle memory and you know",
+    "start": 47.92,
+    "duration": 4.52
+  },
+  {
+    "text": "handle devices like whenever you plug a",
+    "start": 50.36,
+    "duration": 5.679
+  },
+  {
+    "text": "USB uh flash drive in your computer and",
+    "start": 52.44,
+    "duration": 6.079
+  },
+  {
+    "text": "like I said normal users are like who",
+    "start": 56.039,
+    "duration": 4.48
+  },
+  {
+    "text": "cares as long as it works",
+    "start": 58.519,
+    "duration": 5.121
+  },
+  {
+    "text": "whatever but to developers and like",
+    "start": 60.519,
+    "duration": 6.081
+  },
+  {
+    "text": "server administrators they really want",
+    "start": 63.64,
+    "duration": 4.96
+  },
+  {
+    "text": "to learn about this thing called Linux",
+    "start": 66.6,
+    "duration": 5.12
+  },
+  {
+    "text": "because not only is it a different type",
+    "start": 68.6,
+    "duration": 6.6
+  },
+  {
+    "text": "of operating system but it's open source",
+    "start": 71.72,
+    "duration": 5.56
+  },
+  {
+    "text": "so what's the benefit of having an",
+    "start": 75.2,
+    "duration": 5.0
+  },
+  {
+    "text": "operating system that's open source",
+    "start": 77.28,
+    "duration": 4.92
+  },
+  {
+    "text": "we'll check it out the people at",
+    "start": 80.2,
+    "duration": 4.559
+  },
+  {
+    "text": "Microsoft whenever they make uh windows",
+    "start": 82.2,
+    "duration": 5.4
+  },
+  {
+    "text": "or the people who make OS 10 they write",
+    "start": 84.759,
+    "duration": 5.201
+  },
+  {
+    "text": "the code and all that code that they",
+    "start": 87.6,
+    "duration": 4.68
+  },
+  {
+    "text": "used to write it it's hidden now windows",
+    "start": 89.96,
+    "duration": 5.08
+  },
+  {
+    "text": "and Os 10 don't get me wrong they have",
+    "start": 92.28,
+    "duration": 4.76
+  },
+  {
+    "text": "lots of money and they made awesome",
+    "start": 95.04,
+    "duration": 4.079
+  },
+  {
+    "text": "operating systems I love them I have",
+    "start": 97.04,
+    "duration": 4.16
+  },
+  {
+    "text": "computers that have Windows and Os 10",
+    "start": 99.119,
+    "duration": 4.64
+  },
+  {
+    "text": "both on it but here is the problem that",
+    "start": 101.2,
+    "duration": 4.8
+  },
+  {
+    "text": "I have with these operating systems",
+    "start": 103.759,
+    "duration": 3.72
+  },
+  {
+    "text": "first of all whenever the people at",
+    "start": 106.0,
+    "duration": 3.799
+  },
+  {
+    "text": "Microsoft and Apple are making these",
+    "start": 107.479,
+    "duration": 4.881
+  },
+  {
+    "text": "operating systems they write the code",
+    "start": 109.799,
+    "duration": 4.36
+  },
+  {
+    "text": "and they just give you the CD or it",
+    "start": 112.36,
+    "duration": 4.079
+  },
+  {
+    "text": "comes pre-installed on your computer but",
+    "start": 114.159,
+    "duration": 4.24
+  },
+  {
+    "text": "you really don't know how the operating",
+    "start": 116.439,
+    "duration": 4.441
+  },
+  {
+    "text": "system is made or the source code behind",
+    "start": 118.399,
+    "duration": 5.72
+  },
+  {
+    "text": "it so the problem with that is how do",
+    "start": 120.88,
+    "duration": 5.08
+  },
+  {
+    "text": "you know that you know everything is",
+    "start": 124.119,
+    "duration": 4.321
+  },
+  {
+    "text": "secure like it should be programmed",
+    "start": 125.96,
+    "duration": 4.56
+  },
+  {
+    "text": "properly and there aren't any back doors",
+    "start": 128.44,
+    "duration": 4.92
+  },
+  {
+    "text": "shout out to the NSA if you can hear me",
+    "start": 130.52,
+    "duration": 4.439
+  },
+  {
+    "text": "so how do you know that you know there",
+    "start": 133.36,
+    "duration": 4.12
+  },
+  {
+    "text": "are no issues like that well you don't",
+    "start": 134.959,
+    "duration": 4.201
+  },
+  {
+    "text": "you can never see the source code so you",
+    "start": 137.48,
+    "duration": 3.36
+  },
+  {
+    "text": "just kind of have to trust these",
+    "start": 139.16,
+    "duration": 5.2
+  },
+  {
+    "text": "companies now another it's not really",
+    "start": 140.84,
+    "duration": 5.0
+  },
+  {
+    "text": "issue but it's kind of a problem that",
+    "start": 144.36,
+    "duration": 4.0
+  },
+  {
+    "text": "you have is what happens when you want",
+    "start": 145.84,
+    "duration": 3.84
+  },
+  {
+    "text": "to change something on your operating",
+    "start": 148.36,
+    "duration": 3.36
+  },
+  {
+    "text": "system system what happens when there's",
+    "start": 149.68,
+    "duration": 4.48
+  },
+  {
+    "text": "a bug that you want to fix or maybe",
+    "start": 151.72,
+    "duration": 3.68
+  },
+  {
+    "text": "there's just something about it that you",
+    "start": 154.16,
+    "duration": 4.56
+  },
+  {
+    "text": "want to customize well with Windows in",
+    "start": 155.4,
+    "duration": 6.68
+  },
+  {
+    "text": "Mac OS 10 you can't really do that so",
+    "start": 158.72,
+    "duration": 5.159
+  },
+  {
+    "text": "you're pretty much stuck with what they",
+    "start": 162.08,
+    "duration": 4.4
+  },
+  {
+    "text": "have sure you can pick like Windows 7 8",
+    "start": 163.879,
+    "duration": 5.481
+  },
+  {
+    "text": "or 10 but that's pretty much all the",
+    "start": 166.48,
+    "duration": 5.44
+  },
+  {
+    "text": "flexibility you have so that is where",
+    "start": 169.36,
+    "duration": 6.599
+  },
+  {
+    "text": "Linux comes to the rescue so not only is",
+    "start": 171.92,
+    "duration": 6.679
+  },
+  {
+    "text": "it completely free but it's completely",
+    "start": 175.959,
+    "duration": 5.161
+  },
+  {
+    "text": "open source as well this means that all",
+    "start": 178.599,
+    "duration": 4.72
+  },
+  {
+    "text": "of the code that they made to create",
+    "start": 181.12,
+    "duration": 4.56
+  },
+  {
+    "text": "this operating system you can see you",
+    "start": 183.319,
+    "duration": 4.361
+  },
+  {
+    "text": "can actually just copy it and change a",
+    "start": 185.68,
+    "duration": 3.96
+  },
+  {
+    "text": "few things and you can release your own",
+    "start": 187.68,
+    "duration": 4.32
+  },
+  {
+    "text": "version of Linux called spinix if you",
+    "start": 189.64,
+    "duration": 5.159
+  },
+  {
+    "text": "want and since it's open source instead",
+    "start": 192.0,
+    "duration": 5.599
+  },
+  {
+    "text": "of a company of people working on it you",
+    "start": 194.799,
+    "duration": 5.601
+  },
+  {
+    "text": "have the entire world that can you know",
+    "start": 197.599,
+    "duration": 6.481
+  },
+  {
+    "text": "fix bugs make updates and add features",
+    "start": 200.4,
+    "duration": 5.8
+  },
+  {
+    "text": "make improvements to it so it's Pretty",
+    "start": 204.08,
+    "duration": 6.4
+  },
+  {
+    "text": "stinking cool so sounds pretty awesome I",
+    "start": 206.2,
+    "duration": 6.28
+  },
+  {
+    "text": "mean a Linux all right sounds pretty",
+    "start": 210.48,
+    "duration": 3.64
+  },
+  {
+    "text": "cool let's go ahead and play around with",
+    "start": 212.48,
+    "duration": 4.36
+  },
+  {
+    "text": "it but here's the problem you see there",
+    "start": 214.12,
+    "duration": 5.16
+  },
+  {
+    "text": "is no way in the world I am uninstalling",
+    "start": 216.84,
+    "duration": 5.24
+  },
+  {
+    "text": "windows and installing Linux no matter",
+    "start": 219.28,
+    "duration": 4.36
+  },
+  {
+    "text": "how cool it is because I got a bunch of",
+    "start": 222.08,
+    "duration": 3.239
+  },
+  {
+    "text": "stuff on my computer I don't want to",
+    "start": 223.64,
+    "duration": 3.679
+  },
+  {
+    "text": "mess with any of my files got all my you",
+    "start": 225.319,
+    "duration": 5.2
+  },
+  {
+    "text": "know pictures from my girlfriend on here",
+    "start": 227.319,
+    "duration": 6.241
+  },
+  {
+    "text": "so what can we do well you have a couple",
+    "start": 230.519,
+    "duration": 5.36
+  },
+  {
+    "text": "options so just like any operating",
+    "start": 233.56,
+    "duration": 4.0
+  },
+  {
+    "text": "system what you can do is you can just",
+    "start": 235.879,
+    "duration": 4.121
+  },
+  {
+    "text": "install it as your main operating system",
+    "start": 237.56,
+    "duration": 5.399
+  },
+  {
+    "text": "so you can uninstall Windows and install",
+    "start": 240.0,
+    "duration": 4.879
+  },
+  {
+    "text": "a distribution of Linux and I'll show",
+    "start": 242.959,
+    "duration": 3.241
+  },
+  {
+    "text": "I'll show you guys what distribution",
+    "start": 244.879,
+    "duration": 4.161
+  },
+  {
+    "text": "means later on but you can do that but",
+    "start": 246.2,
+    "duration": 5.44
+  },
+  {
+    "text": "that's going to be a pain so instead",
+    "start": 249.04,
+    "duration": 5.279
+  },
+  {
+    "text": "what I'm going to recommend is this in",
+    "start": 251.64,
+    "duration": 4.52
+  },
+  {
+    "text": "this tutorial series and if you're just",
+    "start": 254.319,
+    "duration": 3.88
+  },
+  {
+    "text": "getting started with Linux I'm going to",
+    "start": 256.16,
+    "duration": 3.52
+  },
+  {
+    "text": "show you guys how to install something",
+    "start": 258.199,
+    "duration": 4.961
+  },
+  {
+    "text": "called a virtual machine now a virtual",
+    "start": 259.68,
+    "duration": 6.959
+  },
+  {
+    "text": "machine is pretty much a computer within",
+    "start": 263.16,
+    "duration": 4.4
+  },
+  {
+    "text": "a",
+    "start": 266.639,
+    "duration": 2.881
+  },
+  {
+    "text": "computer what the heck am I talking",
+    "start": 267.56,
+    "duration": 3.639
+  },
+  {
+    "text": "about about well whenever I show you",
+    "start": 269.52,
+    "duration": 3.959
+  },
+  {
+    "text": "guys how to set up this program what it",
+    "start": 271.199,
+    "duration": 4.921
+  },
+  {
+    "text": "is is going to allow you to pretty much",
+    "start": 273.479,
+    "duration": 4.72
+  },
+  {
+    "text": "host an entirely separate operating",
+    "start": 276.12,
+    "duration": 6.88
+  },
+  {
+    "text": "system within windows or within your Mac",
+    "start": 278.199,
+    "duration": 7.481
+  },
+  {
+    "text": "so that way we can you know install",
+    "start": 283.0,
+    "duration": 5.36
+  },
+  {
+    "text": "Linux we can you know install games on",
+    "start": 285.68,
+    "duration": 5.28
+  },
+  {
+    "text": "it have a whole bunch of files text",
+    "start": 288.36,
+    "duration": 4.36
+  },
+  {
+    "text": "files and if we accidentally you know",
+    "start": 290.96,
+    "duration": 4.799
+  },
+  {
+    "text": "delete the entire core operating system",
+    "start": 292.72,
+    "duration": 6.479
+  },
+  {
+    "text": "then it doesn't affect our main and this",
+    "start": 295.759,
+    "duration": 6.361
+  },
+  {
+    "text": "is called host operating system so it's",
+    "start": 299.199,
+    "duration": 5.801
+  },
+  {
+    "text": "entirely sandboxed entirely separate",
+    "start": 302.12,
+    "duration": 4.799
+  },
+  {
+    "text": "from our main computer and that way we",
+    "start": 305.0,
+    "duration": 5.12
+  },
+  {
+    "text": "have a nice safe environment all right",
+    "start": 306.919,
+    "duration": 5.0
+  },
+  {
+    "text": "that sounds much better so how do we get",
+    "start": 310.12,
+    "duration": 3.96
+  },
+  {
+    "text": "this virtual machine well there are a",
+    "start": 311.919,
+    "duration": 3.881
+  },
+  {
+    "text": "couple different virtual machines",
+    "start": 314.08,
+    "duration": 3.64
+  },
+  {
+    "text": "virtual box is one of the most popular",
+    "start": 315.8,
+    "duration": 5.32
+  },
+  {
+    "text": "ones but I like the virtual machine from",
+    "start": 317.72,
+    "duration": 6.319
+  },
+  {
+    "text": "VMware so if you go to vmware.com and",
+    "start": 321.12,
+    "duration": 4.84
+  },
+  {
+    "text": "this is entirely free by the way click",
+    "start": 324.039,
+    "duration": 3.16
+  },
+  {
+    "text": "on",
+    "start": 325.96,
+    "duration": 4.84
+  },
+  {
+    "text": "downloads and if you scroll down",
+    "start": 327.199,
+    "duration": 6.081
+  },
+  {
+    "text": "until you see where you at where you at",
+    "start": 330.8,
+    "duration": 6.88
+  },
+  {
+    "text": "where you at right here VMware Player so",
+    "start": 333.28,
+    "duration": 7.16
+  },
+  {
+    "text": "whenever we click this this is the",
+    "start": 337.68,
+    "duration": 5.2
+  },
+  {
+    "text": "product that allows us to pretty much",
+    "start": 340.44,
+    "duration": 5.12
+  },
+  {
+    "text": "have virtual machines or have separate",
+    "start": 342.88,
+    "duration": 5.68
+  },
+  {
+    "text": "operating systems within our operating",
+    "start": 345.56,
+    "duration": 5.56
+  },
+  {
+    "text": "system so",
+    "start": 348.56,
+    "duration": 5.6
+  },
+  {
+    "text": "pick what one you want to download and",
+    "start": 351.12,
+    "duration": 5.16
+  },
+  {
+    "text": "I'm going to download mine for Windows",
+    "start": 354.16,
+    "duration": 4.24
+  },
+  {
+    "text": "don't download one for Linux because if",
+    "start": 356.28,
+    "duration": 3.56
+  },
+  {
+    "text": "you're already on Linux in the this",
+    "start": 358.4,
+    "duration": 3.28
+  },
+  {
+    "text": "tutorial then you know you don't need to",
+    "start": 359.84,
+    "duration": 4.479
+  },
+  {
+    "text": "install Linux within Linux but I am on",
+    "start": 361.68,
+    "duration": 5.32
+  },
+  {
+    "text": "Windows I'm going to click download and",
+    "start": 364.319,
+    "duration": 4.961
+  },
+  {
+    "text": "let it do its thing so once it's",
+    "start": 367.0,
+    "duration": 5.28
+  },
+  {
+    "text": "downloaded double click it to open it",
+    "start": 369.28,
+    "duration": 4.96
+  },
+  {
+    "text": "and this is just a wizard so if you ever",
+    "start": 372.28,
+    "duration": 3.4
+  },
+  {
+    "text": "installed anything this is going to be a",
+    "start": 374.24,
+    "duration": 4.44
+  },
+  {
+    "text": "piece of cake click yes let me minimize",
+    "start": 375.68,
+    "duration": 5.079
+  },
+  {
+    "text": "this and another thing I want to point",
+    "start": 378.68,
+    "duration": 4.239
+  },
+  {
+    "text": "out I read this before but I never",
+    "start": 380.759,
+    "duration": 4.72
+  },
+  {
+    "text": "really had problems with it some people",
+    "start": 382.919,
+    "duration": 4.961
+  },
+  {
+    "text": "say that they have problems installing",
+    "start": 385.479,
+    "duration": 4.681
+  },
+  {
+    "text": "this whenever they have USB drive drives",
+    "start": 387.88,
+    "duration": 4.52
+  },
+  {
+    "text": "plugged into their computer so before",
+    "start": 390.16,
+    "duration": 4.52
+  },
+  {
+    "text": "you run this installer unplug every USB",
+    "start": 392.4,
+    "duration": 4.88
+  },
+  {
+    "text": "drive from your computer again I",
+    "start": 394.68,
+    "duration": 4.32
+  },
+  {
+    "text": "personally never had a problem with it",
+    "start": 397.28,
+    "duration": 3.199
+  },
+  {
+    "text": "but some people say so you know just",
+    "start": 399.0,
+    "duration": 4.039
+  },
+  {
+    "text": "giving you guys a heads up all right so",
+    "start": 400.479,
+    "duration": 4.881
+  },
+  {
+    "text": "continuing just click",
+    "start": 403.039,
+    "duration": 5.121
+  },
+  {
+    "text": "next next where do you want to install",
+    "start": 405.36,
+    "duration": 6.399
+  },
+  {
+    "text": "it default location looks good and check",
+    "start": 408.16,
+    "duration": 6.0
+  },
+  {
+    "text": "for product updates on start why not",
+    "start": 411.759,
+    "duration": 3.88
+  },
+  {
+    "text": "make sure we have the most upto-date",
+    "start": 414.16,
+    "duration": 3.719
+  },
+  {
+    "text": "version and do we want to send them",
+    "start": 415.639,
+    "duration": 6.161
+  },
+  {
+    "text": "Anonymous nah I think I'm good and click",
+    "start": 417.879,
+    "duration": 5.801
+  },
+  {
+    "text": "next and do you want to create a desktop",
+    "start": 421.8,
+    "duration": 3.88
+  },
+  {
+    "text": "on or do you want to create a shortcut",
+    "start": 423.68,
+    "duration": 4.959
+  },
+  {
+    "text": "on your desktop yes I do and also in my",
+    "start": 425.68,
+    "duration": 4.519
+  },
+  {
+    "text": "start menu and that way we can just you",
+    "start": 428.639,
+    "duration": 5.801
+  },
+  {
+    "text": "know easily open it next and",
+    "start": 430.199,
+    "duration": 7.241
+  },
+  {
+    "text": "continue and that is it how easy was",
+    "start": 434.44,
+    "duration": 7.0
+  },
+  {
+    "text": "that so once it's done click finish and",
+    "start": 437.44,
+    "duration": 5.92
+  },
+  {
+    "text": "me drag this over so you guys can see",
+    "start": 441.44,
+    "duration": 3.92
+  },
+  {
+    "text": "and we now should have this shiny new",
+    "start": 443.36,
+    "duration": 5.76
+  },
+  {
+    "text": "icon on our desktop so we can click it",
+    "start": 445.36,
+    "duration": 6.88
+  },
+  {
+    "text": "and boom there we go so you're not going",
+    "start": 449.12,
+    "duration": 4.919
+  },
+  {
+    "text": "to have any of these in fact let me",
+    "start": 452.24,
+    "duration": 4.48
+  },
+  {
+    "text": "remove these so let me just remove it",
+    "start": 454.039,
+    "duration": 3.56
+  },
+  {
+    "text": "from the",
+    "start": 456.72,
+    "duration": 3.319
+  },
+  {
+    "text": "library so yours is going to look like",
+    "start": 457.599,
+    "duration": 4.0
+  },
+  {
+    "text": "that the reason that I had those is",
+    "start": 460.039,
+    "duration": 3.961
+  },
+  {
+    "text": "because I had virtual machines before",
+    "start": 461.599,
+    "duration": 4.28
+  },
+  {
+    "text": "actually just uninstalled this and",
+    "start": 464.0,
+    "duration": 4.68
+  },
+  {
+    "text": "installed it for the tutorial but you're",
+    "start": 465.879,
+    "duration": 5.121
+  },
+  {
+    "text": "now ready to create a new virtual",
+    "start": 468.68,
+    "duration": 4.16
+  },
+  {
+    "text": "machine and this is pretty much a new",
+    "start": 471.0,
+    "duration": 5.36
+  },
+  {
+    "text": "virtual computer within your computer",
+    "start": 472.84,
+    "duration": 7.44
+  },
+  {
+    "text": "but don't click this link yet because um",
+    "start": 476.36,
+    "duration": 5.92
+  },
+  {
+    "text": "we don't even have an operating system",
+    "start": 480.28,
+    "duration": 5.319
+  },
+  {
+    "text": "yet so before we set up our new computer",
+    "start": 482.28,
+    "duration": 6.479
+  },
+  {
+    "text": "we should go ahead and download Linux so",
+    "start": 485.599,
+    "duration": 4.72
+  },
+  {
+    "text": "our computer actually has something to",
+    "start": 488.759,
+    "duration": 5.081
+  },
+  {
+    "text": "do so close out of this and I'm going to",
+    "start": 490.319,
+    "duration": 5.72
+  },
+  {
+    "text": "show you guys how to download Linux",
+    "start": 493.84,
+    "duration": 5.319
+  },
+  {
+    "text": "right now",
+    "start": 496.039,
+    "duration": 3.12
+  }
+]

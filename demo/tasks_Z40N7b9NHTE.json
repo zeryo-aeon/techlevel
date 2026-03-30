@@ -1,0 +1,30 @@
+{
+    "video_id": "Z40N7b9NHTE",
+    "tasks": [
+        {
+            "task": "Download Auntu 14.04 LTS from www.abb.com/desktop and follow the instructions provided on the website.",
+            "priority": "/2",
+            "description": "Ensure you click download, scroll down to take me to the download option, or donate if preferred. The ISO file will be used for virtual machine installation."
+        },
+        {
+            "task": "Understand that Auntu is a Linux distribution and it comes in various flavors.",
+            "priority": "/2",
+            "description": "Explore Debian, Ubuntu, and others as examples of different distributions to better understand the concept. Note that you only need one distribution for all Linux-based operations."
+        },
+        {
+            "task": "Choose the appropriate version of Auntu based on personal needs (LTS or later versions for new features).",
+            "priority": "/2",
+            "description": "For desktop use, LTS versions are recommended as they provide a stable environment with support for ongoing bug fixes. Later versions may have newer features but come with less stability guarantees."
+        },
+        {
+            "task": "Prepare to install Auntu on a virtual machine using the provided ISO file.",
+            "priority": "/2",
+            "description": "Understand that since the video is about installing Linux in a virtual environment, you'll be working directly with the raw ISO file rather than burning it to DVD."
+        },
+        {
+            "task": "Wait for download completion and ensure the ISO file is ready for installation.",
+            "priority": "/2",
+            "description": "Once downloaded, prepare to use the ISO file as the source for installing Auntu in a virtual machine environment."
+        }
+    ]
+}

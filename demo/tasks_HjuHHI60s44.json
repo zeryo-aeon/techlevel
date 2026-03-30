@@ -1,0 +1,30 @@
+{
+    "video_id": "HjuHHI60s44",
+    "tasks": [
+        {
+            "task": "Install VMware Player on Windows",
+            "priority": "A",
+            "description": "Download and install VMware Player from vmware.com/downloads, choosing the appropriate operating system (Windows in this case). Follow the wizard to set up the virtual machine. Make sure to unplug all USB drives before starting the installation process."
+        },
+        {
+            "task": "Install Linux Virtual Machine",
+            "priority": "B",
+            "description": "Download and install a distribution of Linux using VMware Player (e.g., Ubuntu, Fedora). Ensure that you have access to your main operating system's file storage during the installation process to avoid any data loss."
+        },
+        {
+            "task": "Learn about virtual machines and distributions in Linux",
+            "priority": "B",
+            "description": "Understand what a distribution means (e.g., Ubuntu, Fedora) as you proceed with setting up your virtual machine. Learn more about using the VMware Player for managing multiple operating systems."
+        },
+        {
+            "task": "Install additional software and applications within Linux Virtual Machine",
+            "priority": "C",
+            "description": "Once the Linux distribution is installed, explore the available software repositories to install additional tools or applications needed for specific tasks. This will provide more flexibility in using your virtual machine."
+        },
+        {
+            "task": "Create a backup of important files before installation",
+            "priority": "A",
+            "description": "Before installing any new operating system, create a backup of all critical personal data stored on the host computer (Windows) to avoid accidental file loss during the process. This is especially important for sensitive information like pictures and documents."
+        }
+    ]
+}

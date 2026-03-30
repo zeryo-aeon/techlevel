@@ -1,0 +1,30 @@
+{
+    "video_id": "jrZR7GS5qMs",
+    "tasks": [
+        {
+            "task": "Watch the video to understand market trends and cycles.",
+            "priority": "High",
+            "description": "Learn about the pattern of good and bad companies in the market and focus on strong earnings reports."
+        },
+        {
+            "task": "Do not try to time the market as it is impossible, but remain calm during market fluctuations.",
+            "priority": "Medium",
+            "description": "Understand that staying calm helps manage market emotions and makes better investment decisions."
+        },
+        {
+            "task": "Plan for long-term investments in good companies with strong earnings potential, especially in emerging markets like India where growth perspective is crucial.",
+            "priority": "High",
+            "description": "Consider investing in index-based ETFs rather than making all-in-one investments at once. This allows for a more diversified approach."
+        },
+        {
+            "task": "Be aware of the market's natural cycles, such as bottoms and recoveries, which can provide opportunities for recovery.",
+            "priority": "Medium",
+            "description": "Understand that markets have consistent patterns over time, including periods when investments might appear to be underperforming (market bottom pressure)."
+        },
+        {
+            "task": "Consider investing in the Indian market, given its long-term growth perspective and use of index-based ETFs for smart investment.",
+            "priority": "High",
+            "description": "Evaluate the benefits of an indexed approach versus active trading when considering markets like India."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "video_id": "YPzFPoqwTmI",
+    "tasks": [
+        {
+            "task": "Learn about semantic HTML elements and their benefits",
+            "priority": "High",
+            "description": "Understand how semantic HTML can improve accessibility, SEO rankings, and maintainability of web pages."
+        },
+        {
+            "task": "Review the use of main, section, article, aside, header, footer, and nav elements in HTML",
+            "priority": "Medium",
+            "description": "Analyze examples provided in the transcript to identify how these semantic elements are used for structuring content effectively."
+        },
+        {
+            "task": "Apply knowledge by creating a simple blog post with appropriate use of semantic elements",
+            "priority": "High",
+            "description": "Practice using HTML5 tags like header, main, article, nav and aside to structure different parts of a page logically."
+        },
+        {
+            "task": "Implement assistive technology considerations in HTML coding",
+            "priority": "Medium",
+            "description": "Explore how semantic elements aid screen readers and other assistive technologies in understanding the structure and context of content."
+        }
+    ]
+}

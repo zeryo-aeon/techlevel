@@ -1,0 +1,692 @@
+[
+  {
+    "text": "all right so now auntu is downloaded and",
+    "start": 0.359,
+    "duration": 5.721
+  },
+  {
+    "text": "just so I can make things a little bit",
+    "start": 3.959,
+    "duration": 5.72
+  },
+  {
+    "text": "easier what I'm going to do is I'm",
+    "start": 6.08,
+    "duration": 5.08
+  },
+  {
+    "text": "actually going to take it and move in",
+    "start": 9.679,
+    "duration": 3.92
+  },
+  {
+    "text": "into a separate file that I have uh",
+    "start": 11.16,
+    "duration": 3.76
+  },
+  {
+    "text": "somewhere else and that's because I just",
+    "start": 13.599,
+    "duration": 3.281
+  },
+  {
+    "text": "don't want it in my downloads folder so",
+    "start": 14.92,
+    "duration": 3.72
+  },
+  {
+    "text": "I'm just going to take this and drag it",
+    "start": 16.88,
+    "duration": 3.6
+  },
+  {
+    "text": "you don't need to do this I just like",
+    "start": 18.64,
+    "duration": 4.08
+  },
+  {
+    "text": "having things real nice and neat but",
+    "start": 20.48,
+    "duration": 5.84
+  },
+  {
+    "text": "anyways this is the file so now let's go",
+    "start": 22.72,
+    "duration": 5.399
+  },
+  {
+    "text": "ahead and install it on our virtual",
+    "start": 26.32,
+    "duration": 5.64
+  },
+  {
+    "text": "machine so open up VMware",
+    "start": 28.119,
+    "duration": 3.841
+  },
+  {
+    "text": "player and from here we're going to hit",
+    "start": 32.0,
+    "duration": 4.399
+  },
+  {
+    "text": "create a new virtual",
+    "start": 34.28,
+    "duration": 5.599
+  },
+  {
+    "text": "machine and it says okay what you can do",
+    "start": 36.399,
+    "duration": 5.361
+  },
+  {
+    "text": "is you can install it from a dis if you",
+    "start": 39.879,
+    "duration": 4.641
+  },
+  {
+    "text": "burn it to a dis and it's on a physical",
+    "start": 41.76,
+    "duration": 4.72
+  },
+  {
+    "text": "DVD you can stick it inside your DVD",
+    "start": 44.52,
+    "duration": 3.84
+  },
+  {
+    "text": "drive but we just have it as a regular",
+    "start": 46.48,
+    "duration": 4.16
+  },
+  {
+    "text": "old ISO since we downloaded it off the",
+    "start": 48.36,
+    "duration": 5.519
+  },
+  {
+    "text": "internet so I'm going to click on",
+    "start": 50.64,
+    "duration": 5.8
+  },
+  {
+    "text": "this and that is the",
+    "start": 53.879,
+    "duration": 5.52
+  },
+  {
+    "text": "file and just hit next so we're going to",
+    "start": 56.44,
+    "duration": 4.88
+  },
+  {
+    "text": "create a virtual machine a virtual",
+    "start": 59.399,
+    "duration": 6.201
+  },
+  {
+    "text": "computer using that operating system Abu",
+    "start": 61.32,
+    "duration": 7.119
+  },
+  {
+    "text": "so next and uh what am I going to do",
+    "start": 65.6,
+    "duration": 4.879
+  },
+  {
+    "text": "personalized Linux give it the name",
+    "start": 68.439,
+    "duration": 4.281
+  },
+  {
+    "text": "Bucky and we'll talk about um user",
+    "start": 70.479,
+    "duration": 4.881
+  },
+  {
+    "text": "accounts within auntu later on but for",
+    "start": 72.72,
+    "duration": 5.2
+  },
+  {
+    "text": "right now uh my username can just be",
+    "start": 75.36,
+    "duration": 6.6
+  },
+  {
+    "text": "Bucky and make any password",
+    "start": 77.92,
+    "duration": 4.04
+  },
+  {
+    "text": "so and make sure you remember this",
+    "start": 83.68,
+    "duration": 4.16
+  },
+  {
+    "text": "because whenever you have your operating",
+    "start": 85.92,
+    "duration": 4.199
+  },
+  {
+    "text": "system installed and it asks you to log",
+    "start": 87.84,
+    "duration": 4.72
+  },
+  {
+    "text": "in it's going to ask for this password",
+    "start": 90.119,
+    "duration": 5.921
+  },
+  {
+    "text": "so hit next and all right it doesn't",
+    "start": 92.56,
+    "duration": 4.96
+  },
+  {
+    "text": "really matter what the name of it is I'm",
+    "start": 96.04,
+    "duration": 3.48
+  },
+  {
+    "text": "just going to say uh",
+    "start": 97.52,
+    "duration": 6.4
+  },
+  {
+    "text": "auntu I'll say YouTube so I know which",
+    "start": 99.52,
+    "duration": 7.68
+  },
+  {
+    "text": "one and hit next the default location is",
+    "start": 103.92,
+    "duration": 5.72
+  },
+  {
+    "text": "where you always want to put it all",
+    "start": 107.2,
+    "duration": 5.12
+  },
+  {
+    "text": "right so what you're doing like I said",
+    "start": 109.64,
+    "duration": 4.4
+  },
+  {
+    "text": "is you're pretty much creating a virtual",
+    "start": 112.32,
+    "duration": 4.479
+  },
+  {
+    "text": "computer a computer a simulation of a",
+    "start": 114.04,
+    "duration": 6.24
+  },
+  {
+    "text": "computer within your computer so it's",
+    "start": 116.799,
+    "duration": 4.881
+  },
+  {
+    "text": "going to take up a bunch of files and",
+    "start": 120.28,
+    "duration": 3.199
+  },
+  {
+    "text": "it's also going to need a certain amount",
+    "start": 121.68,
+    "duration": 4.96
+  },
+  {
+    "text": "of memory or Ram in order to run so for",
+    "start": 123.479,
+    "duration": 5.0
+  },
+  {
+    "text": "all of the files I'm just going to storm",
+    "start": 126.64,
+    "duration": 4.959
+  },
+  {
+    "text": "is one single file keep everything nice",
+    "start": 128.479,
+    "duration": 6.721
+  },
+  {
+    "text": "and neat and hit next and also it says",
+    "start": 131.599,
+    "duration": 6.681
+  },
+  {
+    "text": "okay so for your virtual computer do",
+    "start": 135.2,
+    "duration": 5.119
+  },
+  {
+    "text": "these settings look all right so it's",
+    "start": 138.28,
+    "duration": 5.64
+  },
+  {
+    "text": "going to have a 20 GB hard drive in one",
+    "start": 140.319,
+    "duration": 6.441
+  },
+  {
+    "text": "megabyte of ram well you can change the",
+    "start": 143.92,
+    "duration": 5.0
+  },
+  {
+    "text": "size of this if you want this looks fine",
+    "start": 146.76,
+    "duration": 4.559
+  },
+  {
+    "text": "20 gigabyte but I'm also going to bump",
+    "start": 148.92,
+    "duration": 5.8
+  },
+  {
+    "text": "up the ram so if I go to customize in my",
+    "start": 151.319,
+    "duration": 6.881
+  },
+  {
+    "text": "memory I want to boost this up to about",
+    "start": 154.72,
+    "duration": 6.879
+  },
+  {
+    "text": "four gigs so I said one megabyte but",
+    "start": 158.2,
+    "duration": 5.679
+  },
+  {
+    "text": "actually meant uh one gigabyte when I",
+    "start": 161.599,
+    "duration": 4.321
+  },
+  {
+    "text": "said that just a second ago so I'm going",
+    "start": 163.879,
+    "duration": 5.241
+  },
+  {
+    "text": "to change it to 4 gigs close this and",
+    "start": 165.92,
+    "duration": 4.52
+  },
+  {
+    "text": "you just don't want to crank it up all",
+    "start": 169.12,
+    "duration": 3.0
+  },
+  {
+    "text": "the way because what this virtual",
+    "start": 170.44,
+    "duration": 3.6
+  },
+  {
+    "text": "machine is going to do is it's going to",
+    "start": 172.12,
+    "duration": 4.68
+  },
+  {
+    "text": "borrow resources from your host computer",
+    "start": 174.04,
+    "duration": 5.32
+  },
+  {
+    "text": "and in my instance from my main Windows",
+    "start": 176.8,
+    "duration": 5.159
+  },
+  {
+    "text": "computer so I know that I have 16 gigs",
+    "start": 179.36,
+    "duration": 5.56
+  },
+  {
+    "text": "of RAM installed on my main uh Windows",
+    "start": 181.959,
+    "duration": 5.56
+  },
+  {
+    "text": "operating system on my main computer so",
+    "start": 184.92,
+    "duration": 4.679
+  },
+  {
+    "text": "this is going to borrow four whenever",
+    "start": 187.519,
+    "duration": 3.681
+  },
+  {
+    "text": "we're running this virtual machine and",
+    "start": 189.599,
+    "duration": 4.0
+  },
+  {
+    "text": "all that other stuff looks good so I'm",
+    "start": 191.2,
+    "duration": 3.759
+  },
+  {
+    "text": "just going to hit",
+    "start": 193.599,
+    "duration": 3.28
+  },
+  {
+    "text": "finish and it's going to start",
+    "start": 194.959,
+    "duration": 4.241
+  },
+  {
+    "text": "installing from that ISO from that file",
+    "start": 196.879,
+    "duration": 4.521
+  },
+  {
+    "text": "we",
+    "start": 199.2,
+    "duration": 2.2
+  },
+  {
+    "text": "downloaded and since I uninstalled this",
+    "start": 202.2,
+    "duration": 4.72
+  },
+  {
+    "text": "and then I'm reinstalling it for this",
+    "start": 205.04,
+    "duration": 3.72
+  },
+  {
+    "text": "tutorial just going to hit download and",
+    "start": 206.92,
+    "duration": 4.84
+  },
+  {
+    "text": "install",
+    "start": 208.76,
+    "duration": 3.0
+  },
+  {
+    "text": "let me shrink this so you guys can see",
+    "start": 212.04,
+    "duration": 5.119
+  },
+  {
+    "text": "in this if I allow this this does take a",
+    "start": 213.519,
+    "duration": 5.36
+  },
+  {
+    "text": "few minutes so don't freak out if it's",
+    "start": 217.159,
+    "duration": 3.561
+  },
+  {
+    "text": "taking a long time installing an",
+    "start": 218.879,
+    "duration": 4.0
+  },
+  {
+    "text": "operating system takes some time nothing",
+    "start": 220.72,
+    "duration": 4.28
+  },
+  {
+    "text": "you can do about",
+    "start": 222.879,
+    "duration": 4.961
+  },
+  {
+    "text": "that all right so we now have auntu",
+    "start": 225.0,
+    "duration": 6.08
+  },
+  {
+    "text": "installed on our virtual machine and",
+    "start": 227.84,
+    "duration": 4.72
+  },
+  {
+    "text": "just type the password that you made",
+    "start": 231.08,
+    "duration": 3.84
+  },
+  {
+    "text": "whenever you first installed this and",
+    "start": 232.56,
+    "duration": 3.399
+  },
+  {
+    "text": "hit",
+    "start": 234.92,
+    "duration": 6.039
+  },
+  {
+    "text": "enter and you should log in so so this",
+    "start": 235.959,
+    "duration": 7.521
+  },
+  {
+    "text": "is if I can stretch this so you guys can",
+    "start": 240.959,
+    "duration": 5.441
+  },
+  {
+    "text": "see it a little bit better so this is",
+    "start": 243.48,
+    "duration": 5.479
+  },
+  {
+    "text": "what the default desktop looks like for",
+    "start": 246.4,
+    "duration": 5.119
+  },
+  {
+    "text": "auntu and just so whenever I'm recording",
+    "start": 248.959,
+    "duration": 4.64
+  },
+  {
+    "text": "these videos all of this is a little bit",
+    "start": 251.519,
+    "duration": 3.841
+  },
+  {
+    "text": "easier to see I'm going to click on this",
+    "start": 253.599,
+    "duration": 3.561
+  },
+  {
+    "text": "button you guys don't have to do this",
+    "start": 255.36,
+    "duration": 4.64
+  },
+  {
+    "text": "don't worry and this is just the system",
+    "start": 257.16,
+    "duration": 5.16
+  },
+  {
+    "text": "settings or the preferences and I am",
+    "start": 260.0,
+    "duration": 5.08
+  },
+  {
+    "text": "going to go to appearance and these",
+    "start": 262.32,
+    "duration": 4.12
+  },
+  {
+    "text": "buttons right here I just want to make a",
+    "start": 265.08,
+    "duration": 2.8
+  },
+  {
+    "text": "little bit smaller so you guys can see",
+    "start": 266.44,
+    "duration": 2.96
+  },
+  {
+    "text": "them all so I'm going to bump this down",
+    "start": 267.88,
+    "duration": 2.599
+  },
+  {
+    "text": "to",
+    "start": 269.4,
+    "duration": 4.359
+  },
+  {
+    "text": "to um I don't know like 40 that's pretty",
+    "start": 270.479,
+    "duration": 5.361
+  },
+  {
+    "text": "good and if you want to change his",
+    "start": 273.759,
+    "duration": 4.201
+  },
+  {
+    "text": "desktop or whatever then you can do that",
+    "start": 275.84,
+    "duration": 5.52
+  },
+  {
+    "text": "but this is the starting point now a BTU",
+    "start": 277.96,
+    "duration": 4.88
+  },
+  {
+    "text": "comes with a couple programs that you",
+    "start": 281.36,
+    "duration": 2.96
+  },
+  {
+    "text": "don't really need or I'm not going to be",
+    "start": 282.84,
+    "duration": 3.76
+  },
+  {
+    "text": "teaching in this video I want to teach",
+    "start": 284.32,
+    "duration": 4.64
+  },
+  {
+    "text": "you guys about Linux and you know not",
+    "start": 286.6,
+    "duration": 5.56
+  },
+  {
+    "text": "how to use like um the pretty much",
+    "start": 288.96,
+    "duration": 5.76
+  },
+  {
+    "text": "Microsoft Word for auntu so I'm also",
+    "start": 292.16,
+    "duration": 5.039
+  },
+  {
+    "text": "going to right click and just unlock or",
+    "start": 294.72,
+    "duration": 4.96
+  },
+  {
+    "text": "undock these if you're an apple person",
+    "start": 297.199,
+    "duration": 5.84
+  },
+  {
+    "text": "so unlock from launcher unlock unlock",
+    "start": 299.68,
+    "duration": 5.079
+  },
+  {
+    "text": "and also this Amazon",
+    "start": 303.039,
+    "duration": 4.761
+  },
+  {
+    "text": "one and there you go so that's our",
+    "start": 304.759,
+    "duration": 4.521
+  },
+  {
+    "text": "starting point if you guys want to you",
+    "start": 307.8,
+    "duration": 3.0
+  },
+  {
+    "text": "know play around with this a little bit",
+    "start": 309.28,
+    "duration": 4.16
+  },
+  {
+    "text": "then feel free to explore and just",
+    "start": 310.8,
+    "duration": 4.64
+  },
+  {
+    "text": "remember anything you do in here don't",
+    "start": 313.44,
+    "duration": 4.56
+  },
+  {
+    "text": "worry about breaking because if you you",
+    "start": 315.44,
+    "duration": 5.24
+  },
+  {
+    "text": "know just go in and accidentally delete",
+    "start": 318.0,
+    "duration": 5.4
+  },
+  {
+    "text": "all these files for auntu it's never",
+    "start": 320.68,
+    "duration": 4.92
+  },
+  {
+    "text": "going to affect your host operating",
+    "start": 323.4,
+    "duration": 3.88
+  },
+  {
+    "text": "system there's nothing you can do inside",
+    "start": 325.6,
+    "duration": 3.36
+  },
+  {
+    "text": "your virtual machine that's going to",
+    "start": 327.28,
+    "duration": 3.84
+  },
+  {
+    "text": "mess up the stuff right there so if you",
+    "start": 328.96,
+    "duration": 4.079
+  },
+  {
+    "text": "guys want to play around feel free and",
+    "start": 331.12,
+    "duration": 3.639
+  },
+  {
+    "text": "in the next video we'll continue",
+    "start": 333.039,
+    "duration": 5.6
+  },
+  {
+    "text": "learning more about Linux",
+    "start": 334.759,
+    "duration": 3.88
+  }
+]

@@ -1,0 +1,30 @@
+{
+    "video_id": "FvziRqkLrEU",
+    "tasks": [
+        {
+            "task": "Download Auntu and move it into a separate file.",
+            "priority": "display_high_priority",
+            "description": "This is a step to organize files and manage space."
+        },
+        {
+            "task": "Install Auntu on the virtual machine using VMware Player.",
+            "priority": "display_medium_priority",
+            "description": "The next steps involve setting up the environment for learning about Linux."
+        },
+        {
+            "task": "Create a new virtual machine in VMware Player and configure settings.",
+            "priority": "display_high_priority",
+            "description": "This involves personalizing your operating system installation process."
+        },
+        {
+            "task": "Configure Auntu's settings, such as user accounts and preferences.",
+            "priority": "display_medium_priority",
+            "description": "Setting up basic configurations for the virtual machine environment."
+        },
+        {
+            "task": "Remove unnecessary programs that come with Auntu.",
+            "priority": "display_low_priority",
+            "description": "This step is about optimizing the setup by reducing clutter and unneeded software."
+        }
+    ]
+}

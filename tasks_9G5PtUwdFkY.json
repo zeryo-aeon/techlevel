@@ -1,0 +1,10 @@
+{
+    "video_id": "your_video_id",
+    "tasks": [
+        {
+            "task": "Create a thumbnail for the Zen browser based on your observations.",
+            "priority": "user",
+            "description": "The thumbnail should visually represent some of the key features or settings you've observed in the Zen browser, such as vertical tabs and dark mode."
+        }
+    ]
+}

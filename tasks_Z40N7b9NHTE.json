@@ -1,0 +1,40 @@
+{
+    "video_id": "Z40N7b9NHTE",
+    "tasks": [
+        {
+            "task": "Download Auntu 14.04 LTS from www.abb.com/desktop",
+            "priority": "-2",
+            "description": "Go to the website and click 'Desktop' then click 'Download'."
+        },
+        {
+            "task": "Wait for download completion of ISO file.",
+            "priority": "-1",
+            "description": "The system will download a file with .ISO extension. Wait for it to complete downloading."
+        },
+        {
+            "task": "If desired, donate through the website for free downloading or use not now option.",
+            "priority": "-2",
+            "description": "Choose between donating or accepting 'not now' on the page and proceed with download."
+        },
+        {
+            "task": "Prepare virtual machine environment (software such as VirtualBox)",
+            "priority": "-1",
+            "description": "Ensure your virtual machine software is installed. Set up a new virtual machine for Linux installation if not already done."
+        },
+        {
+            "task": "Create virtual disk image of Auntu ISO file in the virtual machine's environment.",
+            "priority": "-2",
+            "description": "Convert downloaded .ISO file to raw format that can be used as an installer within a virtual machine. This usually involves mounting the ISO and then copying its contents (files, etc.) to a VDI or VHD type of image."
+        },
+        {
+            "task": "Install Auntu on the virtual machine using created disk image.",
+            "priority": "-1",
+            "description": "Launch VirtualBox and create a new VM. Choose Debian or another Linux distribution compatible with your setup (e.g., Auntu). Use the raw .ISO file to boot/install from within the guest OS."
+        },
+        {
+            "task": "Once installed, explore core Linux concepts.",
+            "priority": "-2",
+            "description": "Learn basic Linux commands and operations after installation. Understand system files, directories, and use tools like Terminal or Bash for automation tasks."
+        }
+    ]
+}

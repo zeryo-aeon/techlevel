@@ -1,0 +1,14 @@
+[project]
+name = "techlevel"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "groq>=1.1.2",
+    "ollama>=0.6.1",
+    "pydantic>=2.12.5",
+    "pytube>=15.0.0",
+    "youtube-transcript-api>=1.2.4",
+]

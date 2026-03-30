@@ -1,0 +1,40 @@
+{
+    "video_id": "CaYOwvF22Z4",
+    "tasks": [
+        {
+            "task": "Identify JavaScript methods for accessing array elements and objects properties",
+            "priority": "mathematics",
+            "description": "Understand the use of `slice` and `splice` methods in manipulating arrays. Also, identify if and function usage to create a function within an object."
+        },
+        {
+            "task": "Identify the difference between undeclared, undefined variables and throw error.",
+            "priority": "mathematics",
+            "description": "Understand how to handle undeclared and undefined variables in JavaScript with appropriate errors (throw)."
+        },
+        {
+            "task": "Write a function using `let` keyword to define a variable outside the block scope.",
+            "priority": "mathematics",
+            "description": "Define a variable named ABC with value 100, within an if statement inside which create another variable abc and assign it to the same value of ABC. Finally, log the result of `typeOf(ABC)` in console."
+        },
+        {
+            "task": "Write code using ES6 Object Destructuring syntax.",
+            "priority": "mathematics",
+            "description": "Inside an object definition named obj with key-value pairs for XY Z and PQR, include a function inside which calls another function that logs the type of variable XYZ. Use destructuring to access values from different levels of the nested object."
+        },
+        {
+            "task": "Understand differences between `slice` and `splice` methods in arrays.",
+            "priority": "mathematics",
+            "description": "Write code demonstrating the difference between slice (which does not modify the original array) and splice (which modifies the original array). Use these methods to manipulate objects within an object."
+        },
+        {
+            "task": "Identify why `typeOf` XYZ is undefined when it should be a function.",
+            "priority": "mathematics",
+            "description": "Inside an if block, define variables ABC and XY Z. Assign the value of ABC to a variable abc within that same scope but with a different name. After defining these variables, call a typeOf method on both variables (ABC and XY Z) in order to determine why `typeOf` is returning undefined for XYZ."
+        },
+        {
+            "task": "Understand usage and logic behind JavaScript find and includes methods.",
+            "priority": "mathematics",
+            "description": "Write code that uses the `includes` method on strings, including a second parameter (such as -2). Use this method to check if a string contains a specific substring. Also write code using the `find` method within an object structure."
+        }
+    ]
+}

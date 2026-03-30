@@ -1,0 +1,607 @@
+[
+  {
+    "text": "HTML provides dozens of elements to",
+    "start": 0.04,
+    "duration": 4.08
+  },
+  {
+    "text": "build web pages these elements can be",
+    "start": 1.92,
+    "duration": 4.359
+  },
+  {
+    "text": "broadly categorized into two types",
+    "start": 4.12,
+    "duration": 5.0
+  },
+  {
+    "text": "semantic and non-semantic elements while",
+    "start": 6.279,
+    "duration": 4.881
+  },
+  {
+    "text": "non-semantic elements like div and span",
+    "start": 9.12,
+    "duration": 3.72
+  },
+  {
+    "text": "do not provide meaningful information",
+    "start": 11.16,
+    "duration": 3.8
+  },
+  {
+    "text": "about their content semantic elements",
+    "start": 12.84,
+    "duration": 4.04
+  },
+  {
+    "text": "clearly define the role and structure of",
+    "start": 14.96,
+    "duration": 4.0
+  },
+  {
+    "text": "their content making it easier for both",
+    "start": 16.88,
+    "duration": 3.88
+  },
+  {
+    "text": "developers and browsers to understand",
+    "start": 18.96,
+    "duration": 3.76
+  },
+  {
+    "text": "the context of the information for",
+    "start": 20.76,
+    "duration": 3.8
+  },
+  {
+    "text": "example here all the content is wrapped",
+    "start": 22.72,
+    "duration": 3.959
+  },
+  {
+    "text": "inside div elements while it visually",
+    "start": 24.56,
+    "duration": 4.24
+  },
+  {
+    "text": "displays the content nothing in the code",
+    "start": 26.679,
+    "duration": 4.161
+  },
+  {
+    "text": "tells us whether this is a header a main",
+    "start": 28.8,
+    "duration": 3.68
+  },
+  {
+    "text": "section or some other important part of",
+    "start": 30.84,
+    "duration": 4.08
+  },
+  {
+    "text": "the page however here we use the main",
+    "start": 32.48,
+    "duration": 3.919
+  },
+  {
+    "text": "element to indicate that this is the",
+    "start": 34.92,
+    "duration": 3.72
+  },
+  {
+    "text": "main content of the page the section",
+    "start": 36.399,
+    "duration": 4.241
+  },
+  {
+    "text": "groups related content and the article",
+    "start": 38.64,
+    "duration": 4.0
+  },
+  {
+    "text": "tag is used to define each individual",
+    "start": 40.64,
+    "duration": 4.84
+  },
+  {
+    "text": "article using semantic elements in HTML",
+    "start": 42.64,
+    "duration": 5.2
+  },
+  {
+    "text": "offers several benefits first as",
+    "start": 45.48,
+    "duration": 3.96
+  },
+  {
+    "text": "semantic elements provide meaningful",
+    "start": 47.84,
+    "duration": 3.0
+  },
+  {
+    "text": "information about the structure and",
+    "start": 49.44,
+    "duration": 3.279
+  },
+  {
+    "text": "content of a web page they make it",
+    "start": 50.84,
+    "duration": 3.76
+  },
+  {
+    "text": "easier for assistive Technologies like",
+    "start": 52.719,
+    "duration": 3.881
+  },
+  {
+    "text": "screen readers to interpret and present",
+    "start": 54.6,
+    "duration": 4.119
+  },
+  {
+    "text": "the content to users with disabilities",
+    "start": 56.6,
+    "duration": 4.0
+  },
+  {
+    "text": "secondly search engines prioritize",
+    "start": 58.719,
+    "duration": 3.961
+  },
+  {
+    "text": "semantic elements when indexing content",
+    "start": 60.6,
+    "duration": 4.559
+  },
+  {
+    "text": "using semantic HTML can help improve",
+    "start": 62.68,
+    "duration": 4.119
+  },
+  {
+    "text": "search engine rankings as it allows",
+    "start": 65.159,
+    "duration": 3.32
+  },
+  {
+    "text": "search engines to better understand the",
+    "start": 66.799,
+    "duration": 3.841
+  },
+  {
+    "text": "context and relevance of the content",
+    "start": 68.479,
+    "duration": 3.96
+  },
+  {
+    "text": "lastly semantic elements improve the",
+    "start": 70.64,
+    "duration": 3.88
+  },
+  {
+    "text": "readability of the code for developers",
+    "start": 72.439,
+    "duration": 3.761
+  },
+  {
+    "text": "they clearly Define the structure of the",
+    "start": 74.52,
+    "duration": 3.88
+  },
+  {
+    "text": "page making it easier to navigate and",
+    "start": 76.2,
+    "duration": 4.44
+  },
+  {
+    "text": "maintain so what are the most widely",
+    "start": 78.4,
+    "duration": 4.759
+  },
+  {
+    "text": "used semantic elements in HTML the first",
+    "start": 80.64,
+    "duration": 4.4
+  },
+  {
+    "text": "element is the header a header element",
+    "start": 83.159,
+    "duration": 3.761
+  },
+  {
+    "text": "typically displays introductory content",
+    "start": 85.04,
+    "duration": 3.759
+  },
+  {
+    "text": "found at the top of a page or within",
+    "start": 86.92,
+    "duration": 3.48
+  },
+  {
+    "text": "other semantic elements the header often",
+    "start": 88.799,
+    "duration": 4.36
+  },
+  {
+    "text": "contains headings logos and navigation",
+    "start": 90.4,
+    "duration": 4.88
+  },
+  {
+    "text": "the second semantic element is the nav a",
+    "start": 93.159,
+    "duration": 3.681
+  },
+  {
+    "text": "nav element represents the section",
+    "start": 95.28,
+    "duration": 3.4
+  },
+  {
+    "text": "containing navigation links to the main",
+    "start": 96.84,
+    "duration": 4.2
+  },
+  {
+    "text": "areas of the website these links help",
+    "start": 98.68,
+    "duration": 4.079
+  },
+  {
+    "text": "guide visitors to the primary sections",
+    "start": 101.04,
+    "duration": 4.16
+  },
+  {
+    "text": "or blocks of the site the third element",
+    "start": 102.759,
+    "duration": 4.32
+  },
+  {
+    "text": "is the section the section element is",
+    "start": 105.2,
+    "duration": 3.599
+  },
+  {
+    "text": "useful for grouping related content",
+    "start": 107.079,
+    "duration": 4.241
+  },
+  {
+    "text": "together such as text images videos and",
+    "start": 108.799,
+    "duration": 4.481
+  },
+  {
+    "text": "other media that share a common theme or",
+    "start": 111.32,
+    "duration": 4.159
+  },
+  {
+    "text": "topic a section element can be used to",
+    "start": 113.28,
+    "duration": 4.24
+  },
+  {
+    "text": "divide larger elements like articles or",
+    "start": 115.479,
+    "duration": 3.96
+  },
+  {
+    "text": "main content into smaller distinct",
+    "start": 117.52,
+    "duration": 3.76
+  },
+  {
+    "text": "sections or to add structure to",
+    "start": 119.439,
+    "duration": 4.081
+  },
+  {
+    "text": "navigation multimedia or grouped",
+    "start": 121.28,
+    "duration": 4.64
+  },
+  {
+    "text": "information another element is the main",
+    "start": 123.52,
+    "duration": 4.36
+  },
+  {
+    "text": "the main element is used to identify the",
+    "start": 125.92,
+    "duration": 3.88
+  },
+  {
+    "text": "primary and most essential content of a",
+    "start": 127.88,
+    "duration": 4.079
+  },
+  {
+    "text": "web page this element should be unique",
+    "start": 129.8,
+    "duration": 4.04
+  },
+  {
+    "text": "and only appear once per page the",
+    "start": 131.959,
+    "duration": 3.36
+  },
+  {
+    "text": "content inside the main element should",
+    "start": 133.84,
+    "duration": 3.16
+  },
+  {
+    "text": "be directly related to the purpose of",
+    "start": 135.319,
+    "duration": 3.761
+  },
+  {
+    "text": "the page and should not include elements",
+    "start": 137.0,
+    "duration": 4.68
+  },
+  {
+    "text": "that are common across all pages such as",
+    "start": 139.08,
+    "duration": 4.879
+  },
+  {
+    "text": "navigation links site logos footer",
+    "start": 141.68,
+    "duration": 5.279
+  },
+  {
+    "text": "information and so on another element is",
+    "start": 143.959,
+    "duration": 4.681
+  },
+  {
+    "text": "the article the article is used to",
+    "start": 146.959,
+    "duration": 3.721
+  },
+  {
+    "text": "define a self-contained piece of content",
+    "start": 148.64,
+    "duration": 3.64
+  },
+  {
+    "text": "that could be independently distributed",
+    "start": 150.68,
+    "duration": 3.919
+  },
+  {
+    "text": "or reused it typically represents a",
+    "start": 152.28,
+    "duration": 4.599
+  },
+  {
+    "text": "complete or self-sufficient composition",
+    "start": 154.599,
+    "duration": 4.881
+  },
+  {
+    "text": "such as a blog post news article Forum",
+    "start": 156.879,
+    "duration": 4.36
+  },
+  {
+    "text": "post or any other independent piece of",
+    "start": 159.48,
+    "duration": 3.52
+  },
+  {
+    "text": "content let's move on to the aside",
+    "start": 161.239,
+    "duration": 3.681
+  },
+  {
+    "text": "element the aside is used to represent",
+    "start": 163.0,
+    "duration": 3.599
+  },
+  {
+    "text": "content that is slightly related to the",
+    "start": 164.92,
+    "duration": 4.52
+  },
+  {
+    "text": "main content of the page or section this",
+    "start": 166.599,
+    "duration": 5.36
+  },
+  {
+    "text": "can include sidebars pull quotes related",
+    "start": 169.44,
+    "duration": 4.76
+  },
+  {
+    "text": "links or other supplementary information",
+    "start": 171.959,
+    "duration": 4.041
+  },
+  {
+    "text": "that enhances the main content but is",
+    "start": 174.2,
+    "duration": 4.16
+  },
+  {
+    "text": "not essential to its understanding the",
+    "start": 176.0,
+    "duration": 4.12
+  },
+  {
+    "text": "last element is the footer the footer",
+    "start": 178.36,
+    "duration": 3.56
+  },
+  {
+    "text": "element represents the footer of a page",
+    "start": 180.12,
+    "duration": 3.64
+  },
+  {
+    "text": "or section typically containing",
+    "start": 181.92,
+    "duration": 4.56
+  },
+  {
+    "text": "copyright info links or contact",
+    "start": 183.76,
+    "duration": 5.32
+  },
+  {
+    "text": "details after exploring popular semantic",
+    "start": 186.48,
+    "duration": 5.08
+  },
+  {
+    "text": "elements in HTML let's combine them this",
+    "start": 189.08,
+    "duration": 4.519
+  },
+  {
+    "text": "HTML document demonstrates the use of",
+    "start": 191.56,
+    "duration": 3.92
+  },
+  {
+    "text": "semantic elements to structure content",
+    "start": 193.599,
+    "duration": 4.441
+  },
+  {
+    "text": "in a meaningful and accessible way here",
+    "start": 195.48,
+    "duration": 3.92
+  },
+  {
+    "text": "the header element serves as the",
+    "start": 198.04,
+    "duration": 3.24
+  },
+  {
+    "text": "introductory section of both the page",
+    "start": 199.4,
+    "duration": 3.839
+  },
+  {
+    "text": "and individual articles clearly",
+    "start": 201.28,
+    "duration": 3.519
+  },
+  {
+    "text": "identifying the blog's title and",
+    "start": 203.239,
+    "duration": 3.64
+  },
+  {
+    "text": "navigation Links at the top of the page",
+    "start": 204.799,
+    "duration": 3.64
+  },
+  {
+    "text": "while also grouping the article titles",
+    "start": 206.879,
+    "duration": 3.72
+  },
+  {
+    "text": "and meta information for each post the",
+    "start": 208.439,
+    "duration": 4.041
+  },
+  {
+    "text": "main element encapsulates the primary",
+    "start": 210.599,
+    "duration": 3.801
+  },
+  {
+    "text": "content of the page which includes a",
+    "start": 212.48,
+    "duration": 3.52
+  },
+  {
+    "text": "section that holds multiple article",
+    "start": 214.4,
+    "duration": 3.88
+  },
+  {
+    "text": "elements each article uses its own",
+    "start": 216.0,
+    "duration": 3.72
+  },
+  {
+    "text": "header to define the title and",
+    "start": 218.28,
+    "duration": 3.76
+  },
+  {
+    "text": "publication details separating content",
+    "start": 219.72,
+    "duration": 4.599
+  },
+  {
+    "text": "into distinct Parts the footer element",
+    "start": 222.04,
+    "duration": 4.36
+  },
+  {
+    "text": "appears twice as well once to conclude",
+    "start": 224.319,
+    "duration": 3.961
+  },
+  {
+    "text": "the main content section with additional",
+    "start": 226.4,
+    "duration": 4.0
+  },
+  {
+    "text": "information like a subscription link and",
+    "start": 228.28,
+    "duration": 3.64
+  },
+  {
+    "text": "another at the bottom of the page for",
+    "start": 230.4,
+    "duration": 3.559
+  },
+  {
+    "text": "sitewide details like copyright and",
+    "start": 231.92,
+    "duration": 4.8
+  },
+  {
+    "text": "privacy policy links lastly the aside",
+    "start": 233.959,
+    "duration": 4.881
+  },
+  {
+    "text": "houses a list of related articles",
+    "start": 236.72,
+    "duration": 3.68
+  },
+  {
+    "text": "providing additional resources for",
+    "start": 238.84,
+    "duration": 3.319
+  },
+  {
+    "text": "readers who may want to explore topics",
+    "start": 240.4,
+    "duration": 3.919
+  },
+  {
+    "text": "related to the blog posts thanks for",
+    "start": 242.159,
+    "duration": 4.72
+  },
+  {
+    "text": "watching",
+    "start": 244.319,
+    "duration": 2.56
+  }
+]

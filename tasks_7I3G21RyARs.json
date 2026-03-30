@@ -1,0 +1,40 @@
+{
+    "video_id": "7I3G21RyARs",
+    "tasks": [
+        {
+            "task": "Understand and practice the concept of 'zone of proximal development' by stepping out of your comfort zone.",
+            "priority": "/5",
+            "description": "Try a language or technology you haven't used before, take on challenging projects with no immediate tangible return."
+        },
+        {
+            "task": "Read actual documentation instead of just quick start guides and actively seek deeper knowledge about the tools you're using.",
+            "priority": "/5",
+            "description": "Engage in reading material beyond what is required by your current job, dive into books like 'The Pragmatic Programmer' or 'Fundamentals of Software Architecture'."
+        },
+        {
+            "task": "Experiment and break things on purpose to understand why they work the way they do. Ask yourself questions like 'What happens if I remove this line?'",
+            "priority": "/5",
+            "description": "Build side scripts, try different scenarios with your code, and learn from undesirable difficulties."
+        },
+        {
+            "task": "Volunteer for projects that are not easy or obvious to tackle. This helps you face challenges head-on.",
+            "priority": "/5",
+            "description": "Offer assistance where it is needed most, even if the task seems trivial at first."
+        },
+        {
+            "task": "Seek feedback from open-source communities and contribute to projects that align with your standards for quality code.",
+            "priority": "/5",
+            "description": "Contribute to issues or documentation of projects you use regularly. This can range from fixing minor bugs to offering thoughtful comments on pull requests."
+        },
+        {
+            "task": "Teach what you've learned by explaining concepts in writing, verbally, or through a video to someone else.",
+            "priority": "/5",
+            "description": "Record explanations of complex topics for classmate, co-worker, or online. This process will help solidify your understanding and expose any gaps."
+        },
+        {
+            "task": "Explore Superbase for setting up a backend using free open-source software and integrate PG Vector into the database.",
+            "priority": "/5",
+            "description": "Sign up for free on Superbase or self-host using Docker. Explore its features like off storage, Postgres database, real-time functions, etc."
+        }
+    ]
+}

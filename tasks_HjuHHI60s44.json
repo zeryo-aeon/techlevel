@@ -1,0 +1,20 @@
+{
+    "video_id": "HjuHHI60s44",
+    "tasks": [
+        {
+            "task": "Install VMware Player on Windows",
+            "priority": "/high",
+            "description": "Download and install VMware Player from vmware.com. Select the appropriate version for Windows, and follow the installation wizard to set up a virtual machine environment."
+        },
+        {
+            "task": "Create a New Virtual Machine in VMware Player",
+            "priority": "/medium",
+            "description": "Open VMware Player, select 'New' to create a new virtual machine. Choose an appropriate operating system (e.g., Linux) and proceed through the setup wizard to configure settings such as name, memory allocation, storage options, etc."
+        },
+        {
+            "task": "Download Linux Operating System",
+            "priority": "/medium",
+            "description": "Visit a reliable website that offers free distributions of Linux. Select an appropriate distribution (e.g., Ubuntu) and follow the installation instructions to download the ISO file."
+        }
+    ]
+}

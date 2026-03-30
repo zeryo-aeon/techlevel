@@ -1,0 +1,25 @@
+{
+    "video_id": "qVajpj_1eDQ",
+    "tasks": [
+        {
+            "task": "Understand the concept of agentic engineering and its benefits over vibe coding.",
+            "priority": "High",
+            "description": "Read about how Andre Karpati coined the term 'agentic engineering' to describe a shift in focus from directing AI to describing features, to defining outputs and breaking tasks into smaller steps."
+        },
+        {
+            "task": "Implement three habits of agentic engineering: defining output, breaking tasks into small clear steps, reviewing before prompting.",
+            "priority": "Medium",
+            "description": "Practice by giving a simple task such as building a user dashboard to yourself, and then refining your instructions according to the three habits. Repeat with different tasks for practice."
+        },
+        {
+            "task": "Identify areas in your current projects where you can apply these new habits.",
+            "priority": "Medium",
+            "description": "Look back at recent project goals or features that seemed challenging, and identify opportunities to break them down into smaller steps, define success criteria more precisely, and verify progress before moving forward."
+        },
+        {
+            "task": "Watch additional educational content about agentic engineering.",
+            "priority": "Low",
+            "description": "Search for tutorials and articles focused on agentic engineering techniques. These can help solidify the new practices in your mind and provide examples of how to apply them."
+        }
+    ]
+}

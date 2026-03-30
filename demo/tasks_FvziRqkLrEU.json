@@ -1,0 +1,30 @@
+{
+    "video_id": "FvziRqkLrEU",
+    "tasks": [
+        {
+            "task": "Move auntu download file out of downloads folder",
+            "priority": "High",
+            "description": "Drag the auntu downloaded file to a different location within your system for organization and ease."
+        },
+        {
+            "task": "Install auntu virtual machine on VMware player",
+            "priority": "Medium",
+            "description": "Open VMware Player, create a new virtual machine using auntu's ISO, name it Bucky, set the username and password, allocate 20GB of hard drive space and increase RAM to 4GB."
+        },
+        {
+            "task": "Shrink video for better viewing clarity",
+            "priority": "Medium",
+            "description": "Adjust the video size to make the screen clearer by hiding unnecessary parts of the desktop or adjusting the text size."
+        },
+        {
+            "task": "Access and set system settings",
+            "priority": "Low",
+            "description": "Open system settings, adjust appearance preferences like button sizes for better readability and explore other options within system settings to get familiar with the interface."
+        },
+        {
+            "task": "Uninstall unnecessary auntu programs and configure as needed",
+            "priority": "Medium",
+            "description": "Right-click and unlock unused programs in the launcher, such as Amazon One, to allow for further exploration of Linux features without affecting host OS files."
+        }
+    ]
+}

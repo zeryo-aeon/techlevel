@@ -1,0 +1,35 @@
+{
+    "video_id": "zZFf6_ji8Ms",
+    "tasks": [
+        {
+            "task": "Create a list of four things to know when buying a Windows laptop based on the video's content.",
+            "priority": "default",
+            "description": "Understand Microsoft's reasons for pushing AI and server products, note changes in desktop operating system revenue (now less than 10% compared to previous years), be aware of new PC features like NPU tax and bloatware, understand that Windows is not Microsoft's top priority product now."
+        },
+        {
+            "task": "Identify the two examples of 'NPU tax' mentioned in the video.",
+            "priority": "default",
+            "description": "Example 1: A Windows 11 PC with an NPU requiring only up to 40 tops for AI tasks, while a gaming laptop with dedicated GPU can run these tasks at up to 10x power. Example 2: An example of a recent machine from 2023 that has similar features as an AI Plus PC (copilot) but at twice the price."
+        },
+        {
+            "task": "Note examples of Microsoft putting AI into its apps and services.",
+            "priority": "default",
+            "description": "Microsoft put AI in Microsoft Edge, Notepad, Paint, and testing for copilot recommendations on start menu. Windows 11 is full of bloatware and ads for AI."
+        },
+        {
+            "task": "Conclude the video's message about Microsoft prioritizing its other products over Windows based on the content provided.",
+            "priority": "high",
+            "description": "The video concludes that Windows is not a top priority product for Microsoft. Instead, they have shifted focus towards AI and server products which are currently more profitable."
+        },
+        {
+            "task": "Summarize the impact of Microsoft's shift in focus from desktop operating systems to other products like servers and cloud services.",
+            "priority": "default",
+            "description": "Due to their success with these new product lines, Microsoft has seen a significant increase in stock prices over recent years. The revenue contribution of Windows has decreased significantly, reflecting that the demand for Windows as a dominant operating system is declining."
+        },
+        {
+            "task": "Reflect on the video's message about the future of users and their relationship with Windows.",
+            "priority": "default",
+            "description": "The video concludes by suggesting either moving to Mac OS or installing Linux distributions like Ubuntu, indicating that many are concerned about the shift towards AI in modern operating systems."
+        }
+    ]
+}

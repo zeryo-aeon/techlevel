@@ -1,0 +1,602 @@
+[
+  {
+    "text": "all right guys in this video I am going",
+    "start": 0.88,
+    "duration": 3.84
+  },
+  {
+    "text": "to show you how to download and install",
+    "start": 2.879,
+    "duration": 4.801
+  },
+  {
+    "text": "Linux on your virtual box but before we",
+    "start": 4.72,
+    "duration": 5.16
+  },
+  {
+    "text": "begin I want to explain one thing and",
+    "start": 7.68,
+    "duration": 3.44
+  },
+  {
+    "text": "it's going to clear up a lot of",
+    "start": 9.88,
+    "duration": 3.799
+  },
+  {
+    "text": "confusion that people have and that is",
+    "start": 11.12,
+    "duration": 5.079
+  },
+  {
+    "text": "what the heck is a distribution and how",
+    "start": 13.679,
+    "duration": 5.76
+  },
+  {
+    "text": "is it different than Linux well you know",
+    "start": 16.199,
+    "duration": 5.121
+  },
+  {
+    "text": "how I said that you can have Linux and",
+    "start": 19.439,
+    "duration": 4.281
+  },
+  {
+    "text": "install it on your computer or your",
+    "start": 21.32,
+    "duration": 5.959
+  },
+  {
+    "text": "server well that's not entirely true and",
+    "start": 23.72,
+    "duration": 5.08
+  },
+  {
+    "text": "it's kind of not true the same way that",
+    "start": 27.279,
+    "duration": 3.92
+  },
+  {
+    "text": "you can't just install Windows you need",
+    "start": 28.8,
+    "duration": 5.64
+  },
+  {
+    "text": "to pick a version of Windows Windows 95",
+    "start": 31.199,
+    "duration": 6.001
+  },
+  {
+    "text": "Windows 7 Windows 8 Windows 10 well",
+    "start": 34.44,
+    "duration": 5.279
+  },
+  {
+    "text": "Linux is kind of the same way Linux is",
+    "start": 37.2,
+    "duration": 5.64
+  },
+  {
+    "text": "the core operating system and since this",
+    "start": 39.719,
+    "duration": 4.921
+  },
+  {
+    "text": "is open source what people do is they",
+    "start": 42.84,
+    "duration": 4.399
+  },
+  {
+    "text": "customize it and add features to it and",
+    "start": 44.64,
+    "duration": 5.72
+  },
+  {
+    "text": "those are called distributions or drills",
+    "start": 47.239,
+    "duration": 6.201
+  },
+  {
+    "text": "or drills however you say it so what we",
+    "start": 50.36,
+    "duration": 5.32
+  },
+  {
+    "text": "need to do is instead of just installing",
+    "start": 53.44,
+    "duration": 5.0
+  },
+  {
+    "text": "plain Linux we need to pick a",
+    "start": 55.68,
+    "duration": 5.32
+  },
+  {
+    "text": "distribution so distribution like I said",
+    "start": 58.44,
+    "duration": 5.079
+  },
+  {
+    "text": "is just a version of Linux and there are",
+    "start": 61.0,
+    "duration": 4.799
+  },
+  {
+    "text": "a bunch that you can choose from some of",
+    "start": 63.519,
+    "duration": 5.361
+  },
+  {
+    "text": "the most popular ones are Debian and the",
+    "start": 65.799,
+    "duration": 5.921
+  },
+  {
+    "text": "difference between them all is a lot of",
+    "start": 68.88,
+    "duration": 4.36
+  },
+  {
+    "text": "it is just personal preference to be",
+    "start": 71.72,
+    "duration": 3.92
+  },
+  {
+    "text": "honest another thing is what programs",
+    "start": 73.24,
+    "duration": 4.44
+  },
+  {
+    "text": "already come pre-installed on it what's",
+    "start": 75.64,
+    "duration": 4.6
+  },
+  {
+    "text": "the overall layout the look and feel and",
+    "start": 77.68,
+    "duration": 5.28
+  },
+  {
+    "text": "they customize some different things but",
+    "start": 80.24,
+    "duration": 5.48
+  },
+  {
+    "text": "this is the interface of Debian a really",
+    "start": 82.96,
+    "duration": 6.479
+  },
+  {
+    "text": "popular one this is Linux Mint that's",
+    "start": 85.72,
+    "duration": 7.2
+  },
+  {
+    "text": "another popular one this is C Linux so",
+    "start": 89.439,
+    "duration": 5.36
+  },
+  {
+    "text": "this comes with a bunch of uh",
+    "start": 92.92,
+    "duration": 4.44
+  },
+  {
+    "text": "pre-installed programs for like security",
+    "start": 94.799,
+    "duration": 5.201
+  },
+  {
+    "text": "analyst and I say security analysts in",
+    "start": 97.36,
+    "duration": 4.759
+  },
+  {
+    "text": "quotation marks those little air quotes",
+    "start": 100.0,
+    "duration": 4.719
+  },
+  {
+    "text": "I'm doing but the one we're going to be",
+    "start": 102.119,
+    "duration": 5.881
+  },
+  {
+    "text": "working with is auntu now don't freak",
+    "start": 104.719,
+    "duration": 5.0
+  },
+  {
+    "text": "out be like okay so I'm going to have to",
+    "start": 108.0,
+    "duration": 3.64
+  },
+  {
+    "text": "learn about auntu and then I'm going to",
+    "start": 109.719,
+    "duration": 3.601
+  },
+  {
+    "text": "have to learn about Debian and Linux",
+    "start": 111.64,
+    "duration": 3.64
+  },
+  {
+    "text": "Mint well I'm going to be teaching you",
+    "start": 113.32,
+    "duration": 4.52
+  },
+  {
+    "text": "guys the core Linux Concepts and these",
+    "start": 115.28,
+    "duration": 4.08
+  },
+  {
+    "text": "concepts are going to apply no matter",
+    "start": 117.84,
+    "duration": 3.48
+  },
+  {
+    "text": "what d contribution you have so again",
+    "start": 119.36,
+    "duration": 3.679
+  },
+  {
+    "text": "this is just one of the most popular",
+    "start": 121.32,
+    "duration": 3.439
+  },
+  {
+    "text": "ones it's one of the most widely",
+    "start": 123.039,
+    "duration": 4.161
+  },
+  {
+    "text": "supported and in my opinion it's just",
+    "start": 124.759,
+    "duration": 4.881
+  },
+  {
+    "text": "awesome so go to",
+    "start": 127.2,
+    "duration": 5.44
+  },
+  {
+    "text": "www.abb.com and click",
+    "start": 129.64,
+    "duration": 5.28
+  },
+  {
+    "text": "desktop because we want the desktop",
+    "start": 132.64,
+    "duration": 4.2
+  },
+  {
+    "text": "version you can also run this on like a",
+    "start": 134.92,
+    "duration": 3.92
+  },
+  {
+    "text": "server like if you're hosting a website",
+    "start": 136.84,
+    "duration": 4.28
+  },
+  {
+    "text": "online but since we're playing around",
+    "start": 138.84,
+    "duration": 5.08
+  },
+  {
+    "text": "with it on our desktop that's what we're",
+    "start": 141.12,
+    "duration": 5.52
+  },
+  {
+    "text": "going to do and click download",
+    "start": 143.92,
+    "duration": 6.52
+  },
+  {
+    "text": "auntu so we are going to be taken to",
+    "start": 146.64,
+    "duration": 7.08
+  },
+  {
+    "text": "this page right here and just like um",
+    "start": 150.44,
+    "duration": 6.159
+  },
+  {
+    "text": "you know they have different versions of",
+    "start": 153.72,
+    "duration": 5.0
+  },
+  {
+    "text": "uh like Windows or whatever Windows 7",
+    "start": 156.599,
+    "duration": 3.801
+  },
+  {
+    "text": "Windows 8 they always release new",
+    "start": 158.72,
+    "duration": 6.32
+  },
+  {
+    "text": "versions of auntu as well so this one",
+    "start": 160.4,
+    "duration": 7.44
+  },
+  {
+    "text": "right here auntu",
+    "start": 165.04,
+    "duration": 4.919
+  },
+  {
+    "text": "14.04 this is the one that I'm going to",
+    "start": 167.84,
+    "duration": 3.84
+  },
+  {
+    "text": "recommend downloading and I'll explain",
+    "start": 169.959,
+    "duration": 4.441
+  },
+  {
+    "text": "real quick the difference between these",
+    "start": 171.68,
+    "duration": 6.4
+  },
+  {
+    "text": "so every so often auntu comes out with a",
+    "start": 174.4,
+    "duration": 6.8
+  },
+  {
+    "text": "stable version of their operating system",
+    "start": 178.08,
+    "duration": 5.079
+  },
+  {
+    "text": "so you know how you're like okay I'm",
+    "start": 181.2,
+    "duration": 3.84
+  },
+  {
+    "text": "going to download this but I know in",
+    "start": 183.159,
+    "duration": 3.401
+  },
+  {
+    "text": "like 3 months they're going come out",
+    "start": 185.04,
+    "duration": 4.68
+  },
+  {
+    "text": "with 15.04 and then you know 2 weeks",
+    "start": 186.56,
+    "duration": 4.36
+  },
+  {
+    "text": "later they're going to come out with a",
+    "start": 189.72,
+    "duration": 3.72
+  },
+  {
+    "text": "new version people want to avoid that",
+    "start": 190.92,
+    "duration": 4.599
+  },
+  {
+    "text": "problem so what they do is every so",
+    "start": 193.44,
+    "duration": 4.439
+  },
+  {
+    "text": "often they release a LTS version in",
+    "start": 195.519,
+    "duration": 5.161
+  },
+  {
+    "text": "other words a long-term support version",
+    "start": 197.879,
+    "duration": 5.201
+  },
+  {
+    "text": "and whenever you download this they say",
+    "start": 200.68,
+    "duration": 3.839
+  },
+  {
+    "text": "okay we're going to come out with new",
+    "start": 203.08,
+    "duration": 3.28
+  },
+  {
+    "text": "updates but we promise to keep",
+    "start": 204.519,
+    "duration": 4.201
+  },
+  {
+    "text": "supporting and keep fixing bugs with",
+    "start": 206.36,
+    "duration": 4.04
+  },
+  {
+    "text": "this LTS version",
+    "start": 208.72,
+    "duration": 3.159
+  },
+  {
+    "text": "so this is the one that you should",
+    "start": 210.4,
+    "duration": 4.039
+  },
+  {
+    "text": "always download if you want a nice uh",
+    "start": 211.879,
+    "duration": 4.321
+  },
+  {
+    "text": "safe environment if you want to get all",
+    "start": 214.439,
+    "duration": 3.761
+  },
+  {
+    "text": "the Cutting Edge features then you can",
+    "start": 216.2,
+    "duration": 4.039
+  },
+  {
+    "text": "download the later ones",
+    "start": 218.2,
+    "duration": 6.039
+  },
+  {
+    "text": "but 14.04 or whatever the LTS version is",
+    "start": 220.239,
+    "duration": 5.56
+  },
+  {
+    "text": "at the time when you're watching this",
+    "start": 224.239,
+    "duration": 4.28
+  },
+  {
+    "text": "video click",
+    "start": 225.799,
+    "duration": 4.761
+  },
+  {
+    "text": "download and then you're going to be",
+    "start": 228.519,
+    "duration": 4.241
+  },
+  {
+    "text": "taken to this page now instead of paying",
+    "start": 230.56,
+    "duration": 4.0
+  },
+  {
+    "text": "anything if you just scroll all the way",
+    "start": 232.76,
+    "duration": 5.52
+  },
+  {
+    "text": "down you can hit not now take me to the",
+    "start": 234.56,
+    "duration": 6.2
+  },
+  {
+    "text": "download or if you want to donate go",
+    "start": 238.28,
+    "duration": 4.879
+  },
+  {
+    "text": "ahead and then it's going to start",
+    "start": 240.76,
+    "duration": 4.839
+  },
+  {
+    "text": "downloading it so it's going to download",
+    "start": 243.159,
+    "duration": 4.601
+  },
+  {
+    "text": "this file and this file if you look at",
+    "start": 245.599,
+    "duration": 4.84
+  },
+  {
+    "text": "the file extension it's a ISO so it has",
+    "start": 247.76,
+    "duration": 4.52
+  },
+  {
+    "text": "the file name.",
+    "start": 250.439,
+    "duration": 5.041
+  },
+  {
+    "text": "ISO now this is if you were to install",
+    "start": 252.28,
+    "duration": 4.76
+  },
+  {
+    "text": "this on a separate computer like maybe",
+    "start": 255.48,
+    "duration": 4.479
+  },
+  {
+    "text": "your laptop you would take this and burn",
+    "start": 257.04,
+    "duration": 5.52
+  },
+  {
+    "text": "it to a DVD and then you can stick it in",
+    "start": 259.959,
+    "duration": 4.96
+  },
+  {
+    "text": "your DVD drive and install it just like",
+    "start": 262.56,
+    "duration": 4.68
+  },
+  {
+    "text": "you know how like Windows comes on a DVD",
+    "start": 264.919,
+    "duration": 5.161
+  },
+  {
+    "text": "so you can do it like that however since",
+    "start": 267.24,
+    "duration": 4.239
+  },
+  {
+    "text": "we're going to be installing it on our",
+    "start": 270.08,
+    "duration": 3.959
+  },
+  {
+    "text": "virtual machine we can just use this raw",
+    "start": 271.479,
+    "duration": 4.081
+  },
+  {
+    "text": "file and I'll show you guys how to do",
+    "start": 274.039,
+    "duration": 3.72
+  },
+  {
+    "text": "that whenever this is done downloading",
+    "start": 275.56,
+    "duration": 3.32
+  },
+  {
+    "text": "so pretty much right now we're",
+    "start": 277.759,
+    "duration": 4.0
+  },
+  {
+    "text": "downloading the core abtu operating",
+    "start": 278.88,
+    "duration": 6.159
+  },
+  {
+    "text": "system which is a distribution of Linux",
+    "start": 281.759,
+    "duration": 5.401
+  },
+  {
+    "text": "and well that's that so let me just wait",
+    "start": 285.039,
+    "duration": 5.321
+  },
+  {
+    "text": "for this to download",
+    "start": 287.16,
+    "duration": 3.2
+  }
+]
